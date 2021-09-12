@@ -1,0 +1,16 @@
+C:\Users\Miroslav\cmder\greenfox\mirekjiranek\week-01\day-3,\User input (scanner)\MileToKmConverter\bin\Debug\net5.0\MileToKmConverter.exe
+C:\Users\Miroslav\cmder\greenfox\mirekjiranek\week-01\day-3,\User input (scanner)\MileToKmConverter\bin\Debug\net5.0\MileToKmConverter.deps.json
+C:\Users\Miroslav\cmder\greenfox\mirekjiranek\week-01\day-3,\User input (scanner)\MileToKmConverter\bin\Debug\net5.0\MileToKmConverter.runtimeconfig.json
+C:\Users\Miroslav\cmder\greenfox\mirekjiranek\week-01\day-3,\User input (scanner)\MileToKmConverter\bin\Debug\net5.0\MileToKmConverter.runtimeconfig.dev.json
+C:\Users\Miroslav\cmder\greenfox\mirekjiranek\week-01\day-3,\User input (scanner)\MileToKmConverter\bin\Debug\net5.0\MileToKmConverter.dll
+C:\Users\Miroslav\cmder\greenfox\mirekjiranek\week-01\day-3,\User input (scanner)\MileToKmConverter\bin\Debug\net5.0\ref\MileToKmConverter.dll
+C:\Users\Miroslav\cmder\greenfox\mirekjiranek\week-01\day-3,\User input (scanner)\MileToKmConverter\bin\Debug\net5.0\MileToKmConverter.pdb
+C:\Users\Miroslav\cmder\greenfox\mirekjiranek\week-01\day-3,\User input (scanner)\MileToKmConverter\obj\Debug\net5.0\MileToKmConverter.csproj.AssemblyReference.cache
+C:\Users\Miroslav\cmder\greenfox\mirekjiranek\week-01\day-3,\User input (scanner)\MileToKmConverter\obj\Debug\net5.0\MileToKmConverter.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Miroslav\cmder\greenfox\mirekjiranek\week-01\day-3,\User input (scanner)\MileToKmConverter\obj\Debug\net5.0\MileToKmConverter.AssemblyInfoInputs.cache
+C:\Users\Miroslav\cmder\greenfox\mirekjiranek\week-01\day-3,\User input (scanner)\MileToKmConverter\obj\Debug\net5.0\MileToKmConverter.AssemblyInfo.cs
+C:\Users\Miroslav\cmder\greenfox\mirekjiranek\week-01\day-3,\User input (scanner)\MileToKmConverter\obj\Debug\net5.0\MileToKmConverter.csproj.CoreCompileInputs.cache
+C:\Users\Miroslav\cmder\greenfox\mirekjiranek\week-01\day-3,\User input (scanner)\MileToKmConverter\obj\Debug\net5.0\MileToKmConverter.dll
+C:\Users\Miroslav\cmder\greenfox\mirekjiranek\week-01\day-3,\User input (scanner)\MileToKmConverter\obj\Debug\net5.0\ref\MileToKmConverter.dll
+C:\Users\Miroslav\cmder\greenfox\mirekjiranek\week-01\day-3,\User input (scanner)\MileToKmConverter\obj\Debug\net5.0\MileToKmConverter.pdb
+C:\Users\Miroslav\cmder\greenfox\mirekjiranek\week-01\day-3,\User input (scanner)\MileToKmConverter\obj\Debug\net5.0\MileToKmConverter.genruntimeconfig.cache

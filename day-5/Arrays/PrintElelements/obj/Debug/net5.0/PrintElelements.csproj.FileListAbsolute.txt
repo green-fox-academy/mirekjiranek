@@ -1,0 +1,15 @@
+C:\Users\Miroslav\cmder\greenfox\mirekjiranek\week-01\day-5\Arrays\PrintElelements\bin\Debug\net5.0\PrintElelements.exe
+C:\Users\Miroslav\cmder\greenfox\mirekjiranek\week-01\day-5\Arrays\PrintElelements\bin\Debug\net5.0\PrintElelements.deps.json
+C:\Users\Miroslav\cmder\greenfox\mirekjiranek\week-01\day-5\Arrays\PrintElelements\bin\Debug\net5.0\PrintElelements.runtimeconfig.json
+C:\Users\Miroslav\cmder\greenfox\mirekjiranek\week-01\day-5\Arrays\PrintElelements\bin\Debug\net5.0\PrintElelements.runtimeconfig.dev.json
+C:\Users\Miroslav\cmder\greenfox\mirekjiranek\week-01\day-5\Arrays\PrintElelements\bin\Debug\net5.0\PrintElelements.dll
+C:\Users\Miroslav\cmder\greenfox\mirekjiranek\week-01\day-5\Arrays\PrintElelements\bin\Debug\net5.0\ref\PrintElelements.dll
+C:\Users\Miroslav\cmder\greenfox\mirekjiranek\week-01\day-5\Arrays\PrintElelements\bin\Debug\net5.0\PrintElelements.pdb
+C:\Users\Miroslav\cmder\greenfox\mirekjiranek\week-01\day-5\Arrays\PrintElelements\obj\Debug\net5.0\PrintElelements.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Miroslav\cmder\greenfox\mirekjiranek\week-01\day-5\Arrays\PrintElelements\obj\Debug\net5.0\PrintElelements.AssemblyInfoInputs.cache
+C:\Users\Miroslav\cmder\greenfox\mirekjiranek\week-01\day-5\Arrays\PrintElelements\obj\Debug\net5.0\PrintElelements.AssemblyInfo.cs
+C:\Users\Miroslav\cmder\greenfox\mirekjiranek\week-01\day-5\Arrays\PrintElelements\obj\Debug\net5.0\PrintElelements.csproj.CoreCompileInputs.cache
+C:\Users\Miroslav\cmder\greenfox\mirekjiranek\week-01\day-5\Arrays\PrintElelements\obj\Debug\net5.0\PrintElelements.dll
+C:\Users\Miroslav\cmder\greenfox\mirekjiranek\week-01\day-5\Arrays\PrintElelements\obj\Debug\net5.0\ref\PrintElelements.dll
+C:\Users\Miroslav\cmder\greenfox\mirekjiranek\week-01\day-5\Arrays\PrintElelements\obj\Debug\net5.0\PrintElelements.pdb
+C:\Users\Miroslav\cmder\greenfox\mirekjiranek\week-01\day-5\Arrays\PrintElelements\obj\Debug\net5.0\PrintElelements.genruntimeconfig.cache

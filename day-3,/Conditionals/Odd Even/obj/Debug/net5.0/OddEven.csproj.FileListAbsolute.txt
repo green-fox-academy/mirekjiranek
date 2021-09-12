@@ -1,0 +1,16 @@
+C:\Users\Miroslav\cmder\greenfox\mirekjiranek\week-01\day-3,\Conditionals\Odd Even\obj\Debug\net5.0\OddEven.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Miroslav\cmder\greenfox\mirekjiranek\week-01\day-3,\Conditionals\Odd Even\obj\Debug\net5.0\OddEven.AssemblyInfoInputs.cache
+C:\Users\Miroslav\cmder\greenfox\mirekjiranek\week-01\day-3,\Conditionals\Odd Even\obj\Debug\net5.0\OddEven.AssemblyInfo.cs
+C:\Users\Miroslav\cmder\greenfox\mirekjiranek\week-01\day-3,\Conditionals\Odd Even\obj\Debug\net5.0\OddEven.csproj.CoreCompileInputs.cache
+C:\Users\Miroslav\cmder\greenfox\mirekjiranek\week-01\day-3,\Conditionals\Odd Even\bin\Debug\net5.0\OddEven.exe
+C:\Users\Miroslav\cmder\greenfox\mirekjiranek\week-01\day-3,\Conditionals\Odd Even\bin\Debug\net5.0\OddEven.deps.json
+C:\Users\Miroslav\cmder\greenfox\mirekjiranek\week-01\day-3,\Conditionals\Odd Even\bin\Debug\net5.0\OddEven.runtimeconfig.json
+C:\Users\Miroslav\cmder\greenfox\mirekjiranek\week-01\day-3,\Conditionals\Odd Even\bin\Debug\net5.0\OddEven.runtimeconfig.dev.json
+C:\Users\Miroslav\cmder\greenfox\mirekjiranek\week-01\day-3,\Conditionals\Odd Even\bin\Debug\net5.0\OddEven.dll
+C:\Users\Miroslav\cmder\greenfox\mirekjiranek\week-01\day-3,\Conditionals\Odd Even\bin\Debug\net5.0\ref\OddEven.dll
+C:\Users\Miroslav\cmder\greenfox\mirekjiranek\week-01\day-3,\Conditionals\Odd Even\bin\Debug\net5.0\OddEven.pdb
+C:\Users\Miroslav\cmder\greenfox\mirekjiranek\week-01\day-3,\Conditionals\Odd Even\obj\Debug\net5.0\OddEven.dll
+C:\Users\Miroslav\cmder\greenfox\mirekjiranek\week-01\day-3,\Conditionals\Odd Even\obj\Debug\net5.0\ref\OddEven.dll
+C:\Users\Miroslav\cmder\greenfox\mirekjiranek\week-01\day-3,\Conditionals\Odd Even\obj\Debug\net5.0\OddEven.pdb
+C:\Users\Miroslav\cmder\greenfox\mirekjiranek\week-01\day-3,\Conditionals\Odd Even\obj\Debug\net5.0\OddEven.genruntimeconfig.cache
+C:\Users\Miroslav\cmder\greenfox\mirekjiranek\week-01\day-3,\Conditionals\Odd Even\obj\Debug\net5.0\OddEven.csproj.AssemblyReference.cache

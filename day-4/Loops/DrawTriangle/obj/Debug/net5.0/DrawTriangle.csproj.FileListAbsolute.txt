@@ -1,0 +1,16 @@
+C:\Users\Miroslav\cmder\greenfox\mirekjiranek\week-01\day-4\Loops\DrawTriangle\bin\Debug\net5.0\DrawTriangle.exe
+C:\Users\Miroslav\cmder\greenfox\mirekjiranek\week-01\day-4\Loops\DrawTriangle\bin\Debug\net5.0\DrawTriangle.deps.json
+C:\Users\Miroslav\cmder\greenfox\mirekjiranek\week-01\day-4\Loops\DrawTriangle\bin\Debug\net5.0\DrawTriangle.runtimeconfig.json
+C:\Users\Miroslav\cmder\greenfox\mirekjiranek\week-01\day-4\Loops\DrawTriangle\bin\Debug\net5.0\DrawTriangle.runtimeconfig.dev.json
+C:\Users\Miroslav\cmder\greenfox\mirekjiranek\week-01\day-4\Loops\DrawTriangle\bin\Debug\net5.0\DrawTriangle.dll
+C:\Users\Miroslav\cmder\greenfox\mirekjiranek\week-01\day-4\Loops\DrawTriangle\bin\Debug\net5.0\ref\DrawTriangle.dll
+C:\Users\Miroslav\cmder\greenfox\mirekjiranek\week-01\day-4\Loops\DrawTriangle\bin\Debug\net5.0\DrawTriangle.pdb
+C:\Users\Miroslav\cmder\greenfox\mirekjiranek\week-01\day-4\Loops\DrawTriangle\obj\Debug\net5.0\DrawTriangle.csproj.AssemblyReference.cache
+C:\Users\Miroslav\cmder\greenfox\mirekjiranek\week-01\day-4\Loops\DrawTriangle\obj\Debug\net5.0\DrawTriangle.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Miroslav\cmder\greenfox\mirekjiranek\week-01\day-4\Loops\DrawTriangle\obj\Debug\net5.0\DrawTriangle.AssemblyInfoInputs.cache
+C:\Users\Miroslav\cmder\greenfox\mirekjiranek\week-01\day-4\Loops\DrawTriangle\obj\Debug\net5.0\DrawTriangle.AssemblyInfo.cs
+C:\Users\Miroslav\cmder\greenfox\mirekjiranek\week-01\day-4\Loops\DrawTriangle\obj\Debug\net5.0\DrawTriangle.csproj.CoreCompileInputs.cache
+C:\Users\Miroslav\cmder\greenfox\mirekjiranek\week-01\day-4\Loops\DrawTriangle\obj\Debug\net5.0\DrawTriangle.dll
+C:\Users\Miroslav\cmder\greenfox\mirekjiranek\week-01\day-4\Loops\DrawTriangle\obj\Debug\net5.0\ref\DrawTriangle.dll
+C:\Users\Miroslav\cmder\greenfox\mirekjiranek\week-01\day-4\Loops\DrawTriangle\obj\Debug\net5.0\DrawTriangle.pdb
+C:\Users\Miroslav\cmder\greenfox\mirekjiranek\week-01\day-4\Loops\DrawTriangle\obj\Debug\net5.0\DrawTriangle.genruntimeconfig.cache

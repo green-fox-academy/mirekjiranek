@@ -1,0 +1,16 @@
+C:\Users\Miroslav\cmder\greenfox\mirekjiranek\week-01\day-3,\Conditionals\ConditionalVariableMutation\bin\Debug\net5.0\ConditionalVariableMutation.exe
+C:\Users\Miroslav\cmder\greenfox\mirekjiranek\week-01\day-3,\Conditionals\ConditionalVariableMutation\bin\Debug\net5.0\ConditionalVariableMutation.deps.json
+C:\Users\Miroslav\cmder\greenfox\mirekjiranek\week-01\day-3,\Conditionals\ConditionalVariableMutation\bin\Debug\net5.0\ConditionalVariableMutation.runtimeconfig.json
+C:\Users\Miroslav\cmder\greenfox\mirekjiranek\week-01\day-3,\Conditionals\ConditionalVariableMutation\bin\Debug\net5.0\ConditionalVariableMutation.runtimeconfig.dev.json
+C:\Users\Miroslav\cmder\greenfox\mirekjiranek\week-01\day-3,\Conditionals\ConditionalVariableMutation\bin\Debug\net5.0\ConditionalVariableMutation.dll
+C:\Users\Miroslav\cmder\greenfox\mirekjiranek\week-01\day-3,\Conditionals\ConditionalVariableMutation\bin\Debug\net5.0\ref\ConditionalVariableMutation.dll
+C:\Users\Miroslav\cmder\greenfox\mirekjiranek\week-01\day-3,\Conditionals\ConditionalVariableMutation\bin\Debug\net5.0\ConditionalVariableMutation.pdb
+C:\Users\Miroslav\cmder\greenfox\mirekjiranek\week-01\day-3,\Conditionals\ConditionalVariableMutation\obj\Debug\net5.0\ConditionalVariableMutation.csproj.AssemblyReference.cache
+C:\Users\Miroslav\cmder\greenfox\mirekjiranek\week-01\day-3,\Conditionals\ConditionalVariableMutation\obj\Debug\net5.0\ConditionalVariableMutation.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Miroslav\cmder\greenfox\mirekjiranek\week-01\day-3,\Conditionals\ConditionalVariableMutation\obj\Debug\net5.0\ConditionalVariableMutation.AssemblyInfoInputs.cache
+C:\Users\Miroslav\cmder\greenfox\mirekjiranek\week-01\day-3,\Conditionals\ConditionalVariableMutation\obj\Debug\net5.0\ConditionalVariableMutation.AssemblyInfo.cs
+C:\Users\Miroslav\cmder\greenfox\mirekjiranek\week-01\day-3,\Conditionals\ConditionalVariableMutation\obj\Debug\net5.0\ConditionalVariableMutation.csproj.CoreCompileInputs.cache
+C:\Users\Miroslav\cmder\greenfox\mirekjiranek\week-01\day-3,\Conditionals\ConditionalVariableMutation\obj\Debug\net5.0\ConditionalVariableMutation.dll
+C:\Users\Miroslav\cmder\greenfox\mirekjiranek\week-01\day-3,\Conditionals\ConditionalVariableMutation\obj\Debug\net5.0\ref\ConditionalVariableMutation.dll
+C:\Users\Miroslav\cmder\greenfox\mirekjiranek\week-01\day-3,\Conditionals\ConditionalVariableMutation\obj\Debug\net5.0\ConditionalVariableMutation.pdb
+C:\Users\Miroslav\cmder\greenfox\mirekjiranek\week-01\day-3,\Conditionals\ConditionalVariableMutation\obj\Debug\net5.0\ConditionalVariableMutation.genruntimeconfig.cache

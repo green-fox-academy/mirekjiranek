@@ -1,0 +1,16 @@
+C:\Users\Miroslav\cmder\greenfox\mirekjiranek\week-01\day-5\Arrays\SumElements\bin\Debug\net5.0\SumElements.exe
+C:\Users\Miroslav\cmder\greenfox\mirekjiranek\week-01\day-5\Arrays\SumElements\bin\Debug\net5.0\SumElements.deps.json
+C:\Users\Miroslav\cmder\greenfox\mirekjiranek\week-01\day-5\Arrays\SumElements\bin\Debug\net5.0\SumElements.runtimeconfig.json
+C:\Users\Miroslav\cmder\greenfox\mirekjiranek\week-01\day-5\Arrays\SumElements\bin\Debug\net5.0\SumElements.runtimeconfig.dev.json
+C:\Users\Miroslav\cmder\greenfox\mirekjiranek\week-01\day-5\Arrays\SumElements\bin\Debug\net5.0\SumElements.dll
+C:\Users\Miroslav\cmder\greenfox\mirekjiranek\week-01\day-5\Arrays\SumElements\bin\Debug\net5.0\ref\SumElements.dll
+C:\Users\Miroslav\cmder\greenfox\mirekjiranek\week-01\day-5\Arrays\SumElements\bin\Debug\net5.0\SumElements.pdb
+C:\Users\Miroslav\cmder\greenfox\mirekjiranek\week-01\day-5\Arrays\SumElements\obj\Debug\net5.0\SumElements.csproj.AssemblyReference.cache
+C:\Users\Miroslav\cmder\greenfox\mirekjiranek\week-01\day-5\Arrays\SumElements\obj\Debug\net5.0\SumElements.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Miroslav\cmder\greenfox\mirekjiranek\week-01\day-5\Arrays\SumElements\obj\Debug\net5.0\SumElements.AssemblyInfoInputs.cache
+C:\Users\Miroslav\cmder\greenfox\mirekjiranek\week-01\day-5\Arrays\SumElements\obj\Debug\net5.0\SumElements.AssemblyInfo.cs
+C:\Users\Miroslav\cmder\greenfox\mirekjiranek\week-01\day-5\Arrays\SumElements\obj\Debug\net5.0\SumElements.csproj.CoreCompileInputs.cache
+C:\Users\Miroslav\cmder\greenfox\mirekjiranek\week-01\day-5\Arrays\SumElements\obj\Debug\net5.0\SumElements.dll
+C:\Users\Miroslav\cmder\greenfox\mirekjiranek\week-01\day-5\Arrays\SumElements\obj\Debug\net5.0\ref\SumElements.dll
+C:\Users\Miroslav\cmder\greenfox\mirekjiranek\week-01\day-5\Arrays\SumElements\obj\Debug\net5.0\SumElements.pdb
+C:\Users\Miroslav\cmder\greenfox\mirekjiranek\week-01\day-5\Arrays\SumElements\obj\Debug\net5.0\SumElements.genruntimeconfig.cache

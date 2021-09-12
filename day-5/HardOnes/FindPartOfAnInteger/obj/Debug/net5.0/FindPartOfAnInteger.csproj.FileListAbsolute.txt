@@ -1,0 +1,16 @@
+C:\Users\Miroslav\cmder\greenfox\mirekjiranek\week-01\day-5\HardOnes\FindPartOfAnInteger\bin\Debug\net5.0\FindPartOfAnInteger.exe
+C:\Users\Miroslav\cmder\greenfox\mirekjiranek\week-01\day-5\HardOnes\FindPartOfAnInteger\bin\Debug\net5.0\FindPartOfAnInteger.deps.json
+C:\Users\Miroslav\cmder\greenfox\mirekjiranek\week-01\day-5\HardOnes\FindPartOfAnInteger\bin\Debug\net5.0\FindPartOfAnInteger.runtimeconfig.json
+C:\Users\Miroslav\cmder\greenfox\mirekjiranek\week-01\day-5\HardOnes\FindPartOfAnInteger\bin\Debug\net5.0\FindPartOfAnInteger.runtimeconfig.dev.json
+C:\Users\Miroslav\cmder\greenfox\mirekjiranek\week-01\day-5\HardOnes\FindPartOfAnInteger\bin\Debug\net5.0\FindPartOfAnInteger.dll
+C:\Users\Miroslav\cmder\greenfox\mirekjiranek\week-01\day-5\HardOnes\FindPartOfAnInteger\bin\Debug\net5.0\ref\FindPartOfAnInteger.dll
+C:\Users\Miroslav\cmder\greenfox\mirekjiranek\week-01\day-5\HardOnes\FindPartOfAnInteger\bin\Debug\net5.0\FindPartOfAnInteger.pdb
+C:\Users\Miroslav\cmder\greenfox\mirekjiranek\week-01\day-5\HardOnes\FindPartOfAnInteger\obj\Debug\net5.0\FindPartOfAnInteger.csproj.AssemblyReference.cache
+C:\Users\Miroslav\cmder\greenfox\mirekjiranek\week-01\day-5\HardOnes\FindPartOfAnInteger\obj\Debug\net5.0\FindPartOfAnInteger.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Miroslav\cmder\greenfox\mirekjiranek\week-01\day-5\HardOnes\FindPartOfAnInteger\obj\Debug\net5.0\FindPartOfAnInteger.AssemblyInfoInputs.cache
+C:\Users\Miroslav\cmder\greenfox\mirekjiranek\week-01\day-5\HardOnes\FindPartOfAnInteger\obj\Debug\net5.0\FindPartOfAnInteger.AssemblyInfo.cs
+C:\Users\Miroslav\cmder\greenfox\mirekjiranek\week-01\day-5\HardOnes\FindPartOfAnInteger\obj\Debug\net5.0\FindPartOfAnInteger.csproj.CoreCompileInputs.cache
+C:\Users\Miroslav\cmder\greenfox\mirekjiranek\week-01\day-5\HardOnes\FindPartOfAnInteger\obj\Debug\net5.0\FindPartOfAnInteger.dll
+C:\Users\Miroslav\cmder\greenfox\mirekjiranek\week-01\day-5\HardOnes\FindPartOfAnInteger\obj\Debug\net5.0\ref\FindPartOfAnInteger.dll
+C:\Users\Miroslav\cmder\greenfox\mirekjiranek\week-01\day-5\HardOnes\FindPartOfAnInteger\obj\Debug\net5.0\FindPartOfAnInteger.pdb
+C:\Users\Miroslav\cmder\greenfox\mirekjiranek\week-01\day-5\HardOnes\FindPartOfAnInteger\obj\Debug\net5.0\FindPartOfAnInteger.genruntimeconfig.cache

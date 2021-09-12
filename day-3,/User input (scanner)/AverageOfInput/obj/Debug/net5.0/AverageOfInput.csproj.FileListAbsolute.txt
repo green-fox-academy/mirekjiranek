@@ -1,0 +1,16 @@
+C:\Users\Miroslav\cmder\greenfox\mirekjiranek\week-01\day-3,\User input (scanner)\AverageOfInput\bin\Debug\net5.0\AverageOfInput.exe
+C:\Users\Miroslav\cmder\greenfox\mirekjiranek\week-01\day-3,\User input (scanner)\AverageOfInput\bin\Debug\net5.0\AverageOfInput.deps.json
+C:\Users\Miroslav\cmder\greenfox\mirekjiranek\week-01\day-3,\User input (scanner)\AverageOfInput\bin\Debug\net5.0\AverageOfInput.runtimeconfig.json
+C:\Users\Miroslav\cmder\greenfox\mirekjiranek\week-01\day-3,\User input (scanner)\AverageOfInput\bin\Debug\net5.0\AverageOfInput.runtimeconfig.dev.json
+C:\Users\Miroslav\cmder\greenfox\mirekjiranek\week-01\day-3,\User input (scanner)\AverageOfInput\bin\Debug\net5.0\AverageOfInput.dll
+C:\Users\Miroslav\cmder\greenfox\mirekjiranek\week-01\day-3,\User input (scanner)\AverageOfInput\bin\Debug\net5.0\ref\AverageOfInput.dll
+C:\Users\Miroslav\cmder\greenfox\mirekjiranek\week-01\day-3,\User input (scanner)\AverageOfInput\bin\Debug\net5.0\AverageOfInput.pdb
+C:\Users\Miroslav\cmder\greenfox\mirekjiranek\week-01\day-3,\User input (scanner)\AverageOfInput\obj\Debug\net5.0\AverageOfInput.csproj.AssemblyReference.cache
+C:\Users\Miroslav\cmder\greenfox\mirekjiranek\week-01\day-3,\User input (scanner)\AverageOfInput\obj\Debug\net5.0\AverageOfInput.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Miroslav\cmder\greenfox\mirekjiranek\week-01\day-3,\User input (scanner)\AverageOfInput\obj\Debug\net5.0\AverageOfInput.AssemblyInfoInputs.cache
+C:\Users\Miroslav\cmder\greenfox\mirekjiranek\week-01\day-3,\User input (scanner)\AverageOfInput\obj\Debug\net5.0\AverageOfInput.AssemblyInfo.cs
+C:\Users\Miroslav\cmder\greenfox\mirekjiranek\week-01\day-3,\User input (scanner)\AverageOfInput\obj\Debug\net5.0\AverageOfInput.csproj.CoreCompileInputs.cache
+C:\Users\Miroslav\cmder\greenfox\mirekjiranek\week-01\day-3,\User input (scanner)\AverageOfInput\obj\Debug\net5.0\AverageOfInput.dll
+C:\Users\Miroslav\cmder\greenfox\mirekjiranek\week-01\day-3,\User input (scanner)\AverageOfInput\obj\Debug\net5.0\ref\AverageOfInput.dll
+C:\Users\Miroslav\cmder\greenfox\mirekjiranek\week-01\day-3,\User input (scanner)\AverageOfInput\obj\Debug\net5.0\AverageOfInput.pdb
+C:\Users\Miroslav\cmder\greenfox\mirekjiranek\week-01\day-3,\User input (scanner)\AverageOfInput\obj\Debug\net5.0\AverageOfInput.genruntimeconfig.cache

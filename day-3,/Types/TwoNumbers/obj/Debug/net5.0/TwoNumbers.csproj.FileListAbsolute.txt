@@ -1,0 +1,15 @@
+C:\Users\Miroslav\cmder\greenfox\mirekjiranek\week-01\day-3,\Types\TwoNumbers\bin\Debug\net5.0\TwoNumbers.exe
+C:\Users\Miroslav\cmder\greenfox\mirekjiranek\week-01\day-3,\Types\TwoNumbers\bin\Debug\net5.0\TwoNumbers.deps.json
+C:\Users\Miroslav\cmder\greenfox\mirekjiranek\week-01\day-3,\Types\TwoNumbers\bin\Debug\net5.0\TwoNumbers.runtimeconfig.json
+C:\Users\Miroslav\cmder\greenfox\mirekjiranek\week-01\day-3,\Types\TwoNumbers\bin\Debug\net5.0\TwoNumbers.runtimeconfig.dev.json
+C:\Users\Miroslav\cmder\greenfox\mirekjiranek\week-01\day-3,\Types\TwoNumbers\bin\Debug\net5.0\TwoNumbers.dll
+C:\Users\Miroslav\cmder\greenfox\mirekjiranek\week-01\day-3,\Types\TwoNumbers\bin\Debug\net5.0\ref\TwoNumbers.dll
+C:\Users\Miroslav\cmder\greenfox\mirekjiranek\week-01\day-3,\Types\TwoNumbers\bin\Debug\net5.0\TwoNumbers.pdb
+C:\Users\Miroslav\cmder\greenfox\mirekjiranek\week-01\day-3,\Types\TwoNumbers\obj\Debug\net5.0\TwoNumbers.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Miroslav\cmder\greenfox\mirekjiranek\week-01\day-3,\Types\TwoNumbers\obj\Debug\net5.0\TwoNumbers.AssemblyInfoInputs.cache
+C:\Users\Miroslav\cmder\greenfox\mirekjiranek\week-01\day-3,\Types\TwoNumbers\obj\Debug\net5.0\TwoNumbers.AssemblyInfo.cs
+C:\Users\Miroslav\cmder\greenfox\mirekjiranek\week-01\day-3,\Types\TwoNumbers\obj\Debug\net5.0\TwoNumbers.csproj.CoreCompileInputs.cache
+C:\Users\Miroslav\cmder\greenfox\mirekjiranek\week-01\day-3,\Types\TwoNumbers\obj\Debug\net5.0\TwoNumbers.dll
+C:\Users\Miroslav\cmder\greenfox\mirekjiranek\week-01\day-3,\Types\TwoNumbers\obj\Debug\net5.0\ref\TwoNumbers.dll
+C:\Users\Miroslav\cmder\greenfox\mirekjiranek\week-01\day-3,\Types\TwoNumbers\obj\Debug\net5.0\TwoNumbers.pdb
+C:\Users\Miroslav\cmder\greenfox\mirekjiranek\week-01\day-3,\Types\TwoNumbers\obj\Debug\net5.0\TwoNumbers.genruntimeconfig.cache

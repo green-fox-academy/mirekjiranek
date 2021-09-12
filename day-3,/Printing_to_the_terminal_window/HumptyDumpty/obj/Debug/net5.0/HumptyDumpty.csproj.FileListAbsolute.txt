@@ -1,0 +1,16 @@
+C:\Users\Miroslav\cmder\greenfox\mirekjiranek\week-01\day-3,\Printing_to_the_terminal_window\HumptyDumpty\bin\Debug\net5.0\HumptyDumpty.exe
+C:\Users\Miroslav\cmder\greenfox\mirekjiranek\week-01\day-3,\Printing_to_the_terminal_window\HumptyDumpty\bin\Debug\net5.0\HumptyDumpty.deps.json
+C:\Users\Miroslav\cmder\greenfox\mirekjiranek\week-01\day-3,\Printing_to_the_terminal_window\HumptyDumpty\bin\Debug\net5.0\HumptyDumpty.runtimeconfig.json
+C:\Users\Miroslav\cmder\greenfox\mirekjiranek\week-01\day-3,\Printing_to_the_terminal_window\HumptyDumpty\bin\Debug\net5.0\HumptyDumpty.runtimeconfig.dev.json
+C:\Users\Miroslav\cmder\greenfox\mirekjiranek\week-01\day-3,\Printing_to_the_terminal_window\HumptyDumpty\bin\Debug\net5.0\HumptyDumpty.dll
+C:\Users\Miroslav\cmder\greenfox\mirekjiranek\week-01\day-3,\Printing_to_the_terminal_window\HumptyDumpty\bin\Debug\net5.0\ref\HumptyDumpty.dll
+C:\Users\Miroslav\cmder\greenfox\mirekjiranek\week-01\day-3,\Printing_to_the_terminal_window\HumptyDumpty\bin\Debug\net5.0\HumptyDumpty.pdb
+C:\Users\Miroslav\cmder\greenfox\mirekjiranek\week-01\day-3,\Printing_to_the_terminal_window\HumptyDumpty\obj\Debug\net5.0\HumptyDumpty.csproj.AssemblyReference.cache
+C:\Users\Miroslav\cmder\greenfox\mirekjiranek\week-01\day-3,\Printing_to_the_terminal_window\HumptyDumpty\obj\Debug\net5.0\HumptyDumpty.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Miroslav\cmder\greenfox\mirekjiranek\week-01\day-3,\Printing_to_the_terminal_window\HumptyDumpty\obj\Debug\net5.0\HumptyDumpty.AssemblyInfoInputs.cache
+C:\Users\Miroslav\cmder\greenfox\mirekjiranek\week-01\day-3,\Printing_to_the_terminal_window\HumptyDumpty\obj\Debug\net5.0\HumptyDumpty.AssemblyInfo.cs
+C:\Users\Miroslav\cmder\greenfox\mirekjiranek\week-01\day-3,\Printing_to_the_terminal_window\HumptyDumpty\obj\Debug\net5.0\HumptyDumpty.csproj.CoreCompileInputs.cache
+C:\Users\Miroslav\cmder\greenfox\mirekjiranek\week-01\day-3,\Printing_to_the_terminal_window\HumptyDumpty\obj\Debug\net5.0\HumptyDumpty.dll
+C:\Users\Miroslav\cmder\greenfox\mirekjiranek\week-01\day-3,\Printing_to_the_terminal_window\HumptyDumpty\obj\Debug\net5.0\ref\HumptyDumpty.dll
+C:\Users\Miroslav\cmder\greenfox\mirekjiranek\week-01\day-3,\Printing_to_the_terminal_window\HumptyDumpty\obj\Debug\net5.0\HumptyDumpty.pdb
+C:\Users\Miroslav\cmder\greenfox\mirekjiranek\week-01\day-3,\Printing_to_the_terminal_window\HumptyDumpty\obj\Debug\net5.0\HumptyDumpty.genruntimeconfig.cache

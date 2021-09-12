@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.31624.102
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "FindPartOfAnInteger", "FindPartOfAnInteger\FindPartOfAnInteger.csproj", "{7E80FCD6-CCE5-45EA-8355-151AF9C22F3B}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{7E80FCD6-CCE5-45EA-8355-151AF9C22F3B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{7E80FCD6-CCE5-45EA-8355-151AF9C22F3B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{7E80FCD6-CCE5-45EA-8355-151AF9C22F3B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{7E80FCD6-CCE5-45EA-8355-151AF9C22F3B}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {5D5B921A-A420-44AB-81D8-138A651E9018}
+	EndGlobalSection
+EndGlobal

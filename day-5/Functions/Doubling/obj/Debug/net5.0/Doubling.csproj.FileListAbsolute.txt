@@ -1,0 +1,16 @@
+C:\Users\Miroslav\cmder\greenfox\mirekjiranek\week-01\day-5\Functions\Doubling\bin\Debug\net5.0\Doubling.exe
+C:\Users\Miroslav\cmder\greenfox\mirekjiranek\week-01\day-5\Functions\Doubling\bin\Debug\net5.0\Doubling.deps.json
+C:\Users\Miroslav\cmder\greenfox\mirekjiranek\week-01\day-5\Functions\Doubling\bin\Debug\net5.0\Doubling.runtimeconfig.json
+C:\Users\Miroslav\cmder\greenfox\mirekjiranek\week-01\day-5\Functions\Doubling\bin\Debug\net5.0\Doubling.runtimeconfig.dev.json
+C:\Users\Miroslav\cmder\greenfox\mirekjiranek\week-01\day-5\Functions\Doubling\bin\Debug\net5.0\Doubling.dll
+C:\Users\Miroslav\cmder\greenfox\mirekjiranek\week-01\day-5\Functions\Doubling\bin\Debug\net5.0\ref\Doubling.dll
+C:\Users\Miroslav\cmder\greenfox\mirekjiranek\week-01\day-5\Functions\Doubling\bin\Debug\net5.0\Doubling.pdb
+C:\Users\Miroslav\cmder\greenfox\mirekjiranek\week-01\day-5\Functions\Doubling\obj\Debug\net5.0\Doubling.csproj.AssemblyReference.cache
+C:\Users\Miroslav\cmder\greenfox\mirekjiranek\week-01\day-5\Functions\Doubling\obj\Debug\net5.0\Doubling.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Miroslav\cmder\greenfox\mirekjiranek\week-01\day-5\Functions\Doubling\obj\Debug\net5.0\Doubling.AssemblyInfoInputs.cache
+C:\Users\Miroslav\cmder\greenfox\mirekjiranek\week-01\day-5\Functions\Doubling\obj\Debug\net5.0\Doubling.AssemblyInfo.cs
+C:\Users\Miroslav\cmder\greenfox\mirekjiranek\week-01\day-5\Functions\Doubling\obj\Debug\net5.0\Doubling.csproj.CoreCompileInputs.cache
+C:\Users\Miroslav\cmder\greenfox\mirekjiranek\week-01\day-5\Functions\Doubling\obj\Debug\net5.0\Doubling.dll
+C:\Users\Miroslav\cmder\greenfox\mirekjiranek\week-01\day-5\Functions\Doubling\obj\Debug\net5.0\ref\Doubling.dll
+C:\Users\Miroslav\cmder\greenfox\mirekjiranek\week-01\day-5\Functions\Doubling\obj\Debug\net5.0\Doubling.pdb
+C:\Users\Miroslav\cmder\greenfox\mirekjiranek\week-01\day-5\Functions\Doubling\obj\Debug\net5.0\Doubling.genruntimeconfig.cache

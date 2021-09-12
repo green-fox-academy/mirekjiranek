@@ -1,0 +1,15 @@
+C:\Users\Miroslav\cmder\greenfox\mirekjiranek\week-01\day-5\Arrays\SwapElements\bin\Debug\net5.0\SwapElements.exe
+C:\Users\Miroslav\cmder\greenfox\mirekjiranek\week-01\day-5\Arrays\SwapElements\bin\Debug\net5.0\SwapElements.deps.json
+C:\Users\Miroslav\cmder\greenfox\mirekjiranek\week-01\day-5\Arrays\SwapElements\bin\Debug\net5.0\SwapElements.runtimeconfig.json
+C:\Users\Miroslav\cmder\greenfox\mirekjiranek\week-01\day-5\Arrays\SwapElements\bin\Debug\net5.0\SwapElements.runtimeconfig.dev.json
+C:\Users\Miroslav\cmder\greenfox\mirekjiranek\week-01\day-5\Arrays\SwapElements\bin\Debug\net5.0\SwapElements.dll
+C:\Users\Miroslav\cmder\greenfox\mirekjiranek\week-01\day-5\Arrays\SwapElements\bin\Debug\net5.0\ref\SwapElements.dll
+C:\Users\Miroslav\cmder\greenfox\mirekjiranek\week-01\day-5\Arrays\SwapElements\bin\Debug\net5.0\SwapElements.pdb
+C:\Users\Miroslav\cmder\greenfox\mirekjiranek\week-01\day-5\Arrays\SwapElements\obj\Debug\net5.0\SwapElements.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Miroslav\cmder\greenfox\mirekjiranek\week-01\day-5\Arrays\SwapElements\obj\Debug\net5.0\SwapElements.AssemblyInfoInputs.cache
+C:\Users\Miroslav\cmder\greenfox\mirekjiranek\week-01\day-5\Arrays\SwapElements\obj\Debug\net5.0\SwapElements.AssemblyInfo.cs
+C:\Users\Miroslav\cmder\greenfox\mirekjiranek\week-01\day-5\Arrays\SwapElements\obj\Debug\net5.0\SwapElements.csproj.CoreCompileInputs.cache
+C:\Users\Miroslav\cmder\greenfox\mirekjiranek\week-01\day-5\Arrays\SwapElements\obj\Debug\net5.0\SwapElements.dll
+C:\Users\Miroslav\cmder\greenfox\mirekjiranek\week-01\day-5\Arrays\SwapElements\obj\Debug\net5.0\ref\SwapElements.dll
+C:\Users\Miroslav\cmder\greenfox\mirekjiranek\week-01\day-5\Arrays\SwapElements\obj\Debug\net5.0\SwapElements.pdb
+C:\Users\Miroslav\cmder\greenfox\mirekjiranek\week-01\day-5\Arrays\SwapElements\obj\Debug\net5.0\SwapElements.genruntimeconfig.cache

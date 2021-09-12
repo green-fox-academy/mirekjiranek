@@ -1,0 +1,15 @@
+C:\Users\Miroslav\cmder\greenfox\mirekjiranek\week-01\day-3,\Exercises\Swap\bin\Debug\net5.0\Swap.exe
+C:\Users\Miroslav\cmder\greenfox\mirekjiranek\week-01\day-3,\Exercises\Swap\bin\Debug\net5.0\Swap.deps.json
+C:\Users\Miroslav\cmder\greenfox\mirekjiranek\week-01\day-3,\Exercises\Swap\bin\Debug\net5.0\Swap.runtimeconfig.json
+C:\Users\Miroslav\cmder\greenfox\mirekjiranek\week-01\day-3,\Exercises\Swap\bin\Debug\net5.0\Swap.runtimeconfig.dev.json
+C:\Users\Miroslav\cmder\greenfox\mirekjiranek\week-01\day-3,\Exercises\Swap\bin\Debug\net5.0\Swap.dll
+C:\Users\Miroslav\cmder\greenfox\mirekjiranek\week-01\day-3,\Exercises\Swap\bin\Debug\net5.0\ref\Swap.dll
+C:\Users\Miroslav\cmder\greenfox\mirekjiranek\week-01\day-3,\Exercises\Swap\bin\Debug\net5.0\Swap.pdb
+C:\Users\Miroslav\cmder\greenfox\mirekjiranek\week-01\day-3,\Exercises\Swap\obj\Debug\net5.0\Swap.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Miroslav\cmder\greenfox\mirekjiranek\week-01\day-3,\Exercises\Swap\obj\Debug\net5.0\Swap.AssemblyInfoInputs.cache
+C:\Users\Miroslav\cmder\greenfox\mirekjiranek\week-01\day-3,\Exercises\Swap\obj\Debug\net5.0\Swap.AssemblyInfo.cs
+C:\Users\Miroslav\cmder\greenfox\mirekjiranek\week-01\day-3,\Exercises\Swap\obj\Debug\net5.0\Swap.csproj.CoreCompileInputs.cache
+C:\Users\Miroslav\cmder\greenfox\mirekjiranek\week-01\day-3,\Exercises\Swap\obj\Debug\net5.0\Swap.dll
+C:\Users\Miroslav\cmder\greenfox\mirekjiranek\week-01\day-3,\Exercises\Swap\obj\Debug\net5.0\ref\Swap.dll
+C:\Users\Miroslav\cmder\greenfox\mirekjiranek\week-01\day-3,\Exercises\Swap\obj\Debug\net5.0\Swap.pdb
+C:\Users\Miroslav\cmder\greenfox\mirekjiranek\week-01\day-3,\Exercises\Swap\obj\Debug\net5.0\Swap.genruntimeconfig.cache

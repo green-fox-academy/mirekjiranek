@@ -1,0 +1,16 @@
+C:\Users\Miroslav\cmder\greenfox\mirekjiranek\week-01\day-3,\Printing_to_the_terminal_window\HelloOthers\bin\Debug\net5.0\HelloOthers.exe
+C:\Users\Miroslav\cmder\greenfox\mirekjiranek\week-01\day-3,\Printing_to_the_terminal_window\HelloOthers\bin\Debug\net5.0\HelloOthers.deps.json
+C:\Users\Miroslav\cmder\greenfox\mirekjiranek\week-01\day-3,\Printing_to_the_terminal_window\HelloOthers\bin\Debug\net5.0\HelloOthers.runtimeconfig.json
+C:\Users\Miroslav\cmder\greenfox\mirekjiranek\week-01\day-3,\Printing_to_the_terminal_window\HelloOthers\bin\Debug\net5.0\HelloOthers.runtimeconfig.dev.json
+C:\Users\Miroslav\cmder\greenfox\mirekjiranek\week-01\day-3,\Printing_to_the_terminal_window\HelloOthers\bin\Debug\net5.0\HelloOthers.dll
+C:\Users\Miroslav\cmder\greenfox\mirekjiranek\week-01\day-3,\Printing_to_the_terminal_window\HelloOthers\bin\Debug\net5.0\ref\HelloOthers.dll
+C:\Users\Miroslav\cmder\greenfox\mirekjiranek\week-01\day-3,\Printing_to_the_terminal_window\HelloOthers\bin\Debug\net5.0\HelloOthers.pdb
+C:\Users\Miroslav\cmder\greenfox\mirekjiranek\week-01\day-3,\Printing_to_the_terminal_window\HelloOthers\obj\Debug\net5.0\HelloOthers.csproj.AssemblyReference.cache
+C:\Users\Miroslav\cmder\greenfox\mirekjiranek\week-01\day-3,\Printing_to_the_terminal_window\HelloOthers\obj\Debug\net5.0\HelloOthers.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Miroslav\cmder\greenfox\mirekjiranek\week-01\day-3,\Printing_to_the_terminal_window\HelloOthers\obj\Debug\net5.0\HelloOthers.AssemblyInfoInputs.cache
+C:\Users\Miroslav\cmder\greenfox\mirekjiranek\week-01\day-3,\Printing_to_the_terminal_window\HelloOthers\obj\Debug\net5.0\HelloOthers.AssemblyInfo.cs
+C:\Users\Miroslav\cmder\greenfox\mirekjiranek\week-01\day-3,\Printing_to_the_terminal_window\HelloOthers\obj\Debug\net5.0\HelloOthers.csproj.CoreCompileInputs.cache
+C:\Users\Miroslav\cmder\greenfox\mirekjiranek\week-01\day-3,\Printing_to_the_terminal_window\HelloOthers\obj\Debug\net5.0\HelloOthers.dll
+C:\Users\Miroslav\cmder\greenfox\mirekjiranek\week-01\day-3,\Printing_to_the_terminal_window\HelloOthers\obj\Debug\net5.0\ref\HelloOthers.dll
+C:\Users\Miroslav\cmder\greenfox\mirekjiranek\week-01\day-3,\Printing_to_the_terminal_window\HelloOthers\obj\Debug\net5.0\HelloOthers.pdb
+C:\Users\Miroslav\cmder\greenfox\mirekjiranek\week-01\day-3,\Printing_to_the_terminal_window\HelloOthers\obj\Debug\net5.0\HelloOthers.genruntimeconfig.cache

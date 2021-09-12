@@ -1,0 +1,15 @@
+C:\Users\Miroslav\cmder\greenfox\mirekjiranek\week-01\day-5\Arrays\DoubleItems\bin\Debug\net5.0\DoubleItems.exe
+C:\Users\Miroslav\cmder\greenfox\mirekjiranek\week-01\day-5\Arrays\DoubleItems\bin\Debug\net5.0\DoubleItems.deps.json
+C:\Users\Miroslav\cmder\greenfox\mirekjiranek\week-01\day-5\Arrays\DoubleItems\bin\Debug\net5.0\DoubleItems.runtimeconfig.json
+C:\Users\Miroslav\cmder\greenfox\mirekjiranek\week-01\day-5\Arrays\DoubleItems\bin\Debug\net5.0\DoubleItems.runtimeconfig.dev.json
+C:\Users\Miroslav\cmder\greenfox\mirekjiranek\week-01\day-5\Arrays\DoubleItems\bin\Debug\net5.0\DoubleItems.dll
+C:\Users\Miroslav\cmder\greenfox\mirekjiranek\week-01\day-5\Arrays\DoubleItems\bin\Debug\net5.0\ref\DoubleItems.dll
+C:\Users\Miroslav\cmder\greenfox\mirekjiranek\week-01\day-5\Arrays\DoubleItems\bin\Debug\net5.0\DoubleItems.pdb
+C:\Users\Miroslav\cmder\greenfox\mirekjiranek\week-01\day-5\Arrays\DoubleItems\obj\Debug\net5.0\DoubleItems.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Miroslav\cmder\greenfox\mirekjiranek\week-01\day-5\Arrays\DoubleItems\obj\Debug\net5.0\DoubleItems.AssemblyInfoInputs.cache
+C:\Users\Miroslav\cmder\greenfox\mirekjiranek\week-01\day-5\Arrays\DoubleItems\obj\Debug\net5.0\DoubleItems.AssemblyInfo.cs
+C:\Users\Miroslav\cmder\greenfox\mirekjiranek\week-01\day-5\Arrays\DoubleItems\obj\Debug\net5.0\DoubleItems.csproj.CoreCompileInputs.cache
+C:\Users\Miroslav\cmder\greenfox\mirekjiranek\week-01\day-5\Arrays\DoubleItems\obj\Debug\net5.0\DoubleItems.dll
+C:\Users\Miroslav\cmder\greenfox\mirekjiranek\week-01\day-5\Arrays\DoubleItems\obj\Debug\net5.0\ref\DoubleItems.dll
+C:\Users\Miroslav\cmder\greenfox\mirekjiranek\week-01\day-5\Arrays\DoubleItems\obj\Debug\net5.0\DoubleItems.pdb
+C:\Users\Miroslav\cmder\greenfox\mirekjiranek\week-01\day-5\Arrays\DoubleItems\obj\Debug\net5.0\DoubleItems.genruntimeconfig.cache

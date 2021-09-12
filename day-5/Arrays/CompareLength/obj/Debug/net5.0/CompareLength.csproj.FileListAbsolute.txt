@@ -1,0 +1,15 @@
+C:\Users\Miroslav\cmder\greenfox\mirekjiranek\week-01\day-5\Arrays\CompareLength\bin\Debug\net5.0\CompareLength.exe
+C:\Users\Miroslav\cmder\greenfox\mirekjiranek\week-01\day-5\Arrays\CompareLength\bin\Debug\net5.0\CompareLength.deps.json
+C:\Users\Miroslav\cmder\greenfox\mirekjiranek\week-01\day-5\Arrays\CompareLength\bin\Debug\net5.0\CompareLength.runtimeconfig.json
+C:\Users\Miroslav\cmder\greenfox\mirekjiranek\week-01\day-5\Arrays\CompareLength\bin\Debug\net5.0\CompareLength.runtimeconfig.dev.json
+C:\Users\Miroslav\cmder\greenfox\mirekjiranek\week-01\day-5\Arrays\CompareLength\bin\Debug\net5.0\CompareLength.dll
+C:\Users\Miroslav\cmder\greenfox\mirekjiranek\week-01\day-5\Arrays\CompareLength\bin\Debug\net5.0\ref\CompareLength.dll
+C:\Users\Miroslav\cmder\greenfox\mirekjiranek\week-01\day-5\Arrays\CompareLength\bin\Debug\net5.0\CompareLength.pdb
+C:\Users\Miroslav\cmder\greenfox\mirekjiranek\week-01\day-5\Arrays\CompareLength\obj\Debug\net5.0\CompareLength.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Miroslav\cmder\greenfox\mirekjiranek\week-01\day-5\Arrays\CompareLength\obj\Debug\net5.0\CompareLength.AssemblyInfoInputs.cache
+C:\Users\Miroslav\cmder\greenfox\mirekjiranek\week-01\day-5\Arrays\CompareLength\obj\Debug\net5.0\CompareLength.AssemblyInfo.cs
+C:\Users\Miroslav\cmder\greenfox\mirekjiranek\week-01\day-5\Arrays\CompareLength\obj\Debug\net5.0\CompareLength.csproj.CoreCompileInputs.cache
+C:\Users\Miroslav\cmder\greenfox\mirekjiranek\week-01\day-5\Arrays\CompareLength\obj\Debug\net5.0\CompareLength.dll
+C:\Users\Miroslav\cmder\greenfox\mirekjiranek\week-01\day-5\Arrays\CompareLength\obj\Debug\net5.0\ref\CompareLength.dll
+C:\Users\Miroslav\cmder\greenfox\mirekjiranek\week-01\day-5\Arrays\CompareLength\obj\Debug\net5.0\CompareLength.pdb
+C:\Users\Miroslav\cmder\greenfox\mirekjiranek\week-01\day-5\Arrays\CompareLength\obj\Debug\net5.0\CompareLength.genruntimeconfig.cache

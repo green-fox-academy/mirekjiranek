@@ -1,0 +1,16 @@
+C:\Users\Miroslav\cmder\greenfox\mirekjiranek\week-01\day-3,\Printing_to_the_terminal_window\HelloMe\bin\Debug\net5.0\HelloMe.exe
+C:\Users\Miroslav\cmder\greenfox\mirekjiranek\week-01\day-3,\Printing_to_the_terminal_window\HelloMe\bin\Debug\net5.0\HelloMe.deps.json
+C:\Users\Miroslav\cmder\greenfox\mirekjiranek\week-01\day-3,\Printing_to_the_terminal_window\HelloMe\bin\Debug\net5.0\HelloMe.runtimeconfig.json
+C:\Users\Miroslav\cmder\greenfox\mirekjiranek\week-01\day-3,\Printing_to_the_terminal_window\HelloMe\bin\Debug\net5.0\HelloMe.runtimeconfig.dev.json
+C:\Users\Miroslav\cmder\greenfox\mirekjiranek\week-01\day-3,\Printing_to_the_terminal_window\HelloMe\bin\Debug\net5.0\HelloMe.dll
+C:\Users\Miroslav\cmder\greenfox\mirekjiranek\week-01\day-3,\Printing_to_the_terminal_window\HelloMe\bin\Debug\net5.0\ref\HelloMe.dll
+C:\Users\Miroslav\cmder\greenfox\mirekjiranek\week-01\day-3,\Printing_to_the_terminal_window\HelloMe\bin\Debug\net5.0\HelloMe.pdb
+C:\Users\Miroslav\cmder\greenfox\mirekjiranek\week-01\day-3,\Printing_to_the_terminal_window\HelloMe\obj\Debug\net5.0\HelloMe.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Miroslav\cmder\greenfox\mirekjiranek\week-01\day-3,\Printing_to_the_terminal_window\HelloMe\obj\Debug\net5.0\HelloMe.AssemblyInfoInputs.cache
+C:\Users\Miroslav\cmder\greenfox\mirekjiranek\week-01\day-3,\Printing_to_the_terminal_window\HelloMe\obj\Debug\net5.0\HelloMe.AssemblyInfo.cs
+C:\Users\Miroslav\cmder\greenfox\mirekjiranek\week-01\day-3,\Printing_to_the_terminal_window\HelloMe\obj\Debug\net5.0\HelloMe.csproj.CoreCompileInputs.cache
+C:\Users\Miroslav\cmder\greenfox\mirekjiranek\week-01\day-3,\Printing_to_the_terminal_window\HelloMe\obj\Debug\net5.0\HelloMe.dll
+C:\Users\Miroslav\cmder\greenfox\mirekjiranek\week-01\day-3,\Printing_to_the_terminal_window\HelloMe\obj\Debug\net5.0\ref\HelloMe.dll
+C:\Users\Miroslav\cmder\greenfox\mirekjiranek\week-01\day-3,\Printing_to_the_terminal_window\HelloMe\obj\Debug\net5.0\HelloMe.pdb
+C:\Users\Miroslav\cmder\greenfox\mirekjiranek\week-01\day-3,\Printing_to_the_terminal_window\HelloMe\obj\Debug\net5.0\HelloMe.genruntimeconfig.cache
+C:\Users\Miroslav\cmder\greenfox\mirekjiranek\week-01\day-3,\Printing_to_the_terminal_window\HelloMe\obj\Debug\net5.0\HelloMe.csproj.AssemblyReference.cache

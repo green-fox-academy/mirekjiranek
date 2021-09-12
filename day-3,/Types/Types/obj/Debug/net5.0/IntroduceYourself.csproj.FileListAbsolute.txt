@@ -1,0 +1,15 @@
+C:\Users\Miroslav\cmder\greenfox\mirekjiranek\week-01\day-3,\Types\Types\bin\Debug\net5.0\IntroduceYourself.exe
+C:\Users\Miroslav\cmder\greenfox\mirekjiranek\week-01\day-3,\Types\Types\bin\Debug\net5.0\IntroduceYourself.deps.json
+C:\Users\Miroslav\cmder\greenfox\mirekjiranek\week-01\day-3,\Types\Types\bin\Debug\net5.0\IntroduceYourself.runtimeconfig.json
+C:\Users\Miroslav\cmder\greenfox\mirekjiranek\week-01\day-3,\Types\Types\bin\Debug\net5.0\IntroduceYourself.runtimeconfig.dev.json
+C:\Users\Miroslav\cmder\greenfox\mirekjiranek\week-01\day-3,\Types\Types\bin\Debug\net5.0\IntroduceYourself.dll
+C:\Users\Miroslav\cmder\greenfox\mirekjiranek\week-01\day-3,\Types\Types\bin\Debug\net5.0\ref\IntroduceYourself.dll
+C:\Users\Miroslav\cmder\greenfox\mirekjiranek\week-01\day-3,\Types\Types\bin\Debug\net5.0\IntroduceYourself.pdb
+C:\Users\Miroslav\cmder\greenfox\mirekjiranek\week-01\day-3,\Types\Types\obj\Debug\net5.0\IntroduceYourself.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Miroslav\cmder\greenfox\mirekjiranek\week-01\day-3,\Types\Types\obj\Debug\net5.0\IntroduceYourself.AssemblyInfoInputs.cache
+C:\Users\Miroslav\cmder\greenfox\mirekjiranek\week-01\day-3,\Types\Types\obj\Debug\net5.0\IntroduceYourself.AssemblyInfo.cs
+C:\Users\Miroslav\cmder\greenfox\mirekjiranek\week-01\day-3,\Types\Types\obj\Debug\net5.0\IntroduceYourself.csproj.CoreCompileInputs.cache
+C:\Users\Miroslav\cmder\greenfox\mirekjiranek\week-01\day-3,\Types\Types\obj\Debug\net5.0\IntroduceYourself.dll
+C:\Users\Miroslav\cmder\greenfox\mirekjiranek\week-01\day-3,\Types\Types\obj\Debug\net5.0\ref\IntroduceYourself.dll
+C:\Users\Miroslav\cmder\greenfox\mirekjiranek\week-01\day-3,\Types\Types\obj\Debug\net5.0\IntroduceYourself.pdb
+C:\Users\Miroslav\cmder\greenfox\mirekjiranek\week-01\day-3,\Types\Types\obj\Debug\net5.0\IntroduceYourself.genruntimeconfig.cache

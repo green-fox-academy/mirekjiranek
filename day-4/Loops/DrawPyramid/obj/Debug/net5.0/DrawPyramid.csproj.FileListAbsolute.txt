@@ -1,0 +1,16 @@
+C:\Users\Miroslav\cmder\greenfox\mirekjiranek\week-01\day-4\Loops\DrawPyramid\bin\Debug\net5.0\DrawPyramid.exe
+C:\Users\Miroslav\cmder\greenfox\mirekjiranek\week-01\day-4\Loops\DrawPyramid\bin\Debug\net5.0\DrawPyramid.deps.json
+C:\Users\Miroslav\cmder\greenfox\mirekjiranek\week-01\day-4\Loops\DrawPyramid\bin\Debug\net5.0\DrawPyramid.runtimeconfig.json
+C:\Users\Miroslav\cmder\greenfox\mirekjiranek\week-01\day-4\Loops\DrawPyramid\bin\Debug\net5.0\DrawPyramid.runtimeconfig.dev.json
+C:\Users\Miroslav\cmder\greenfox\mirekjiranek\week-01\day-4\Loops\DrawPyramid\bin\Debug\net5.0\DrawPyramid.dll
+C:\Users\Miroslav\cmder\greenfox\mirekjiranek\week-01\day-4\Loops\DrawPyramid\bin\Debug\net5.0\ref\DrawPyramid.dll
+C:\Users\Miroslav\cmder\greenfox\mirekjiranek\week-01\day-4\Loops\DrawPyramid\bin\Debug\net5.0\DrawPyramid.pdb
+C:\Users\Miroslav\cmder\greenfox\mirekjiranek\week-01\day-4\Loops\DrawPyramid\obj\Debug\net5.0\DrawPyramid.csproj.AssemblyReference.cache
+C:\Users\Miroslav\cmder\greenfox\mirekjiranek\week-01\day-4\Loops\DrawPyramid\obj\Debug\net5.0\DrawPyramid.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Miroslav\cmder\greenfox\mirekjiranek\week-01\day-4\Loops\DrawPyramid\obj\Debug\net5.0\DrawPyramid.AssemblyInfoInputs.cache
+C:\Users\Miroslav\cmder\greenfox\mirekjiranek\week-01\day-4\Loops\DrawPyramid\obj\Debug\net5.0\DrawPyramid.AssemblyInfo.cs
+C:\Users\Miroslav\cmder\greenfox\mirekjiranek\week-01\day-4\Loops\DrawPyramid\obj\Debug\net5.0\DrawPyramid.csproj.CoreCompileInputs.cache
+C:\Users\Miroslav\cmder\greenfox\mirekjiranek\week-01\day-4\Loops\DrawPyramid\obj\Debug\net5.0\DrawPyramid.dll
+C:\Users\Miroslav\cmder\greenfox\mirekjiranek\week-01\day-4\Loops\DrawPyramid\obj\Debug\net5.0\ref\DrawPyramid.dll
+C:\Users\Miroslav\cmder\greenfox\mirekjiranek\week-01\day-4\Loops\DrawPyramid\obj\Debug\net5.0\DrawPyramid.pdb
+C:\Users\Miroslav\cmder\greenfox\mirekjiranek\week-01\day-4\Loops\DrawPyramid\obj\Debug\net5.0\DrawPyramid.genruntimeconfig.cache

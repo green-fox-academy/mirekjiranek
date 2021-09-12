@@ -1,0 +1,15 @@
+C:\Users\Miroslav\cmder\greenfox\mirekjiranek\week-01\day-3,\Exercises\SecondInADay\bin\Debug\net5.0\SecondInADay.exe
+C:\Users\Miroslav\cmder\greenfox\mirekjiranek\week-01\day-3,\Exercises\SecondInADay\bin\Debug\net5.0\SecondInADay.deps.json
+C:\Users\Miroslav\cmder\greenfox\mirekjiranek\week-01\day-3,\Exercises\SecondInADay\bin\Debug\net5.0\SecondInADay.runtimeconfig.json
+C:\Users\Miroslav\cmder\greenfox\mirekjiranek\week-01\day-3,\Exercises\SecondInADay\bin\Debug\net5.0\SecondInADay.runtimeconfig.dev.json
+C:\Users\Miroslav\cmder\greenfox\mirekjiranek\week-01\day-3,\Exercises\SecondInADay\bin\Debug\net5.0\SecondInADay.dll
+C:\Users\Miroslav\cmder\greenfox\mirekjiranek\week-01\day-3,\Exercises\SecondInADay\bin\Debug\net5.0\ref\SecondInADay.dll
+C:\Users\Miroslav\cmder\greenfox\mirekjiranek\week-01\day-3,\Exercises\SecondInADay\bin\Debug\net5.0\SecondInADay.pdb
+C:\Users\Miroslav\cmder\greenfox\mirekjiranek\week-01\day-3,\Exercises\SecondInADay\obj\Debug\net5.0\SecondInADay.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Miroslav\cmder\greenfox\mirekjiranek\week-01\day-3,\Exercises\SecondInADay\obj\Debug\net5.0\SecondInADay.AssemblyInfoInputs.cache
+C:\Users\Miroslav\cmder\greenfox\mirekjiranek\week-01\day-3,\Exercises\SecondInADay\obj\Debug\net5.0\SecondInADay.AssemblyInfo.cs
+C:\Users\Miroslav\cmder\greenfox\mirekjiranek\week-01\day-3,\Exercises\SecondInADay\obj\Debug\net5.0\SecondInADay.csproj.CoreCompileInputs.cache
+C:\Users\Miroslav\cmder\greenfox\mirekjiranek\week-01\day-3,\Exercises\SecondInADay\obj\Debug\net5.0\SecondInADay.dll
+C:\Users\Miroslav\cmder\greenfox\mirekjiranek\week-01\day-3,\Exercises\SecondInADay\obj\Debug\net5.0\ref\SecondInADay.dll
+C:\Users\Miroslav\cmder\greenfox\mirekjiranek\week-01\day-3,\Exercises\SecondInADay\obj\Debug\net5.0\SecondInADay.pdb
+C:\Users\Miroslav\cmder\greenfox\mirekjiranek\week-01\day-3,\Exercises\SecondInADay\obj\Debug\net5.0\SecondInADay.genruntimeconfig.cache

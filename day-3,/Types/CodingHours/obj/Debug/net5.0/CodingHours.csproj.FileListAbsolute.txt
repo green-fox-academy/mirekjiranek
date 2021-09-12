@@ -1,0 +1,16 @@
+C:\Users\Miroslav\cmder\greenfox\mirekjiranek\week-01\day-3,\Types\CodingHours\bin\Debug\net5.0\CodingHours.exe
+C:\Users\Miroslav\cmder\greenfox\mirekjiranek\week-01\day-3,\Types\CodingHours\bin\Debug\net5.0\CodingHours.deps.json
+C:\Users\Miroslav\cmder\greenfox\mirekjiranek\week-01\day-3,\Types\CodingHours\bin\Debug\net5.0\CodingHours.runtimeconfig.json
+C:\Users\Miroslav\cmder\greenfox\mirekjiranek\week-01\day-3,\Types\CodingHours\bin\Debug\net5.0\CodingHours.runtimeconfig.dev.json
+C:\Users\Miroslav\cmder\greenfox\mirekjiranek\week-01\day-3,\Types\CodingHours\bin\Debug\net5.0\CodingHours.dll
+C:\Users\Miroslav\cmder\greenfox\mirekjiranek\week-01\day-3,\Types\CodingHours\bin\Debug\net5.0\ref\CodingHours.dll
+C:\Users\Miroslav\cmder\greenfox\mirekjiranek\week-01\day-3,\Types\CodingHours\bin\Debug\net5.0\CodingHours.pdb
+C:\Users\Miroslav\cmder\greenfox\mirekjiranek\week-01\day-3,\Types\CodingHours\obj\Debug\net5.0\CodingHours.csproj.AssemblyReference.cache
+C:\Users\Miroslav\cmder\greenfox\mirekjiranek\week-01\day-3,\Types\CodingHours\obj\Debug\net5.0\CodingHours.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Miroslav\cmder\greenfox\mirekjiranek\week-01\day-3,\Types\CodingHours\obj\Debug\net5.0\CodingHours.AssemblyInfoInputs.cache
+C:\Users\Miroslav\cmder\greenfox\mirekjiranek\week-01\day-3,\Types\CodingHours\obj\Debug\net5.0\CodingHours.AssemblyInfo.cs
+C:\Users\Miroslav\cmder\greenfox\mirekjiranek\week-01\day-3,\Types\CodingHours\obj\Debug\net5.0\CodingHours.csproj.CoreCompileInputs.cache
+C:\Users\Miroslav\cmder\greenfox\mirekjiranek\week-01\day-3,\Types\CodingHours\obj\Debug\net5.0\CodingHours.dll
+C:\Users\Miroslav\cmder\greenfox\mirekjiranek\week-01\day-3,\Types\CodingHours\obj\Debug\net5.0\ref\CodingHours.dll
+C:\Users\Miroslav\cmder\greenfox\mirekjiranek\week-01\day-3,\Types\CodingHours\obj\Debug\net5.0\CodingHours.pdb
+C:\Users\Miroslav\cmder\greenfox\mirekjiranek\week-01\day-3,\Types\CodingHours\obj\Debug\net5.0\CodingHours.genruntimeconfig.cache

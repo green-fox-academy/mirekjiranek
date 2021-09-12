@@ -1,0 +1,16 @@
+C:\Users\Miroslav\cmder\greenfox\mirekjiranek\week-01\day-3,\Conditionals\OneTwoALot\bin\Debug\net5.0\OneTwoALot.exe
+C:\Users\Miroslav\cmder\greenfox\mirekjiranek\week-01\day-3,\Conditionals\OneTwoALot\bin\Debug\net5.0\OneTwoALot.deps.json
+C:\Users\Miroslav\cmder\greenfox\mirekjiranek\week-01\day-3,\Conditionals\OneTwoALot\bin\Debug\net5.0\OneTwoALot.runtimeconfig.json
+C:\Users\Miroslav\cmder\greenfox\mirekjiranek\week-01\day-3,\Conditionals\OneTwoALot\bin\Debug\net5.0\OneTwoALot.runtimeconfig.dev.json
+C:\Users\Miroslav\cmder\greenfox\mirekjiranek\week-01\day-3,\Conditionals\OneTwoALot\bin\Debug\net5.0\OneTwoALot.dll
+C:\Users\Miroslav\cmder\greenfox\mirekjiranek\week-01\day-3,\Conditionals\OneTwoALot\bin\Debug\net5.0\ref\OneTwoALot.dll
+C:\Users\Miroslav\cmder\greenfox\mirekjiranek\week-01\day-3,\Conditionals\OneTwoALot\bin\Debug\net5.0\OneTwoALot.pdb
+C:\Users\Miroslav\cmder\greenfox\mirekjiranek\week-01\day-3,\Conditionals\OneTwoALot\obj\Debug\net5.0\OneTwoALot.csproj.AssemblyReference.cache
+C:\Users\Miroslav\cmder\greenfox\mirekjiranek\week-01\day-3,\Conditionals\OneTwoALot\obj\Debug\net5.0\OneTwoALot.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Miroslav\cmder\greenfox\mirekjiranek\week-01\day-3,\Conditionals\OneTwoALot\obj\Debug\net5.0\OneTwoALot.AssemblyInfoInputs.cache
+C:\Users\Miroslav\cmder\greenfox\mirekjiranek\week-01\day-3,\Conditionals\OneTwoALot\obj\Debug\net5.0\OneTwoALot.AssemblyInfo.cs
+C:\Users\Miroslav\cmder\greenfox\mirekjiranek\week-01\day-3,\Conditionals\OneTwoALot\obj\Debug\net5.0\OneTwoALot.csproj.CoreCompileInputs.cache
+C:\Users\Miroslav\cmder\greenfox\mirekjiranek\week-01\day-3,\Conditionals\OneTwoALot\obj\Debug\net5.0\OneTwoALot.dll
+C:\Users\Miroslav\cmder\greenfox\mirekjiranek\week-01\day-3,\Conditionals\OneTwoALot\obj\Debug\net5.0\ref\OneTwoALot.dll
+C:\Users\Miroslav\cmder\greenfox\mirekjiranek\week-01\day-3,\Conditionals\OneTwoALot\obj\Debug\net5.0\OneTwoALot.pdb
+C:\Users\Miroslav\cmder\greenfox\mirekjiranek\week-01\day-3,\Conditionals\OneTwoALot\obj\Debug\net5.0\OneTwoALot.genruntimeconfig.cache

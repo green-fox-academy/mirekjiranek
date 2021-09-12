@@ -1,0 +1,16 @@
+C:\Users\Miroslav\cmder\greenfox\mirekjiranek\week-01\day-5\Arrays\ChangeElement\bin\Debug\net5.0\ChangeElement.exe
+C:\Users\Miroslav\cmder\greenfox\mirekjiranek\week-01\day-5\Arrays\ChangeElement\bin\Debug\net5.0\ChangeElement.deps.json
+C:\Users\Miroslav\cmder\greenfox\mirekjiranek\week-01\day-5\Arrays\ChangeElement\bin\Debug\net5.0\ChangeElement.runtimeconfig.json
+C:\Users\Miroslav\cmder\greenfox\mirekjiranek\week-01\day-5\Arrays\ChangeElement\bin\Debug\net5.0\ChangeElement.runtimeconfig.dev.json
+C:\Users\Miroslav\cmder\greenfox\mirekjiranek\week-01\day-5\Arrays\ChangeElement\bin\Debug\net5.0\ChangeElement.dll
+C:\Users\Miroslav\cmder\greenfox\mirekjiranek\week-01\day-5\Arrays\ChangeElement\bin\Debug\net5.0\ref\ChangeElement.dll
+C:\Users\Miroslav\cmder\greenfox\mirekjiranek\week-01\day-5\Arrays\ChangeElement\bin\Debug\net5.0\ChangeElement.pdb
+C:\Users\Miroslav\cmder\greenfox\mirekjiranek\week-01\day-5\Arrays\ChangeElement\obj\Debug\net5.0\ChangeElement.csproj.AssemblyReference.cache
+C:\Users\Miroslav\cmder\greenfox\mirekjiranek\week-01\day-5\Arrays\ChangeElement\obj\Debug\net5.0\ChangeElement.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Miroslav\cmder\greenfox\mirekjiranek\week-01\day-5\Arrays\ChangeElement\obj\Debug\net5.0\ChangeElement.AssemblyInfoInputs.cache
+C:\Users\Miroslav\cmder\greenfox\mirekjiranek\week-01\day-5\Arrays\ChangeElement\obj\Debug\net5.0\ChangeElement.AssemblyInfo.cs
+C:\Users\Miroslav\cmder\greenfox\mirekjiranek\week-01\day-5\Arrays\ChangeElement\obj\Debug\net5.0\ChangeElement.csproj.CoreCompileInputs.cache
+C:\Users\Miroslav\cmder\greenfox\mirekjiranek\week-01\day-5\Arrays\ChangeElement\obj\Debug\net5.0\ChangeElement.dll
+C:\Users\Miroslav\cmder\greenfox\mirekjiranek\week-01\day-5\Arrays\ChangeElement\obj\Debug\net5.0\ref\ChangeElement.dll
+C:\Users\Miroslav\cmder\greenfox\mirekjiranek\week-01\day-5\Arrays\ChangeElement\obj\Debug\net5.0\ChangeElement.pdb
+C:\Users\Miroslav\cmder\greenfox\mirekjiranek\week-01\day-5\Arrays\ChangeElement\obj\Debug\net5.0\ChangeElement.genruntimeconfig.cache

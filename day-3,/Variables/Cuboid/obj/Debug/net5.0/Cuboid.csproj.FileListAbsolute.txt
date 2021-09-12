@@ -1,0 +1,16 @@
+C:\Users\Miroslav\cmder\greenfox\mirekjiranek\week-01\day-3,\Exercises\Cuboid\bin\Debug\net5.0\Cuboid.exe
+C:\Users\Miroslav\cmder\greenfox\mirekjiranek\week-01\day-3,\Exercises\Cuboid\bin\Debug\net5.0\Cuboid.deps.json
+C:\Users\Miroslav\cmder\greenfox\mirekjiranek\week-01\day-3,\Exercises\Cuboid\bin\Debug\net5.0\Cuboid.runtimeconfig.json
+C:\Users\Miroslav\cmder\greenfox\mirekjiranek\week-01\day-3,\Exercises\Cuboid\bin\Debug\net5.0\Cuboid.runtimeconfig.dev.json
+C:\Users\Miroslav\cmder\greenfox\mirekjiranek\week-01\day-3,\Exercises\Cuboid\bin\Debug\net5.0\Cuboid.dll
+C:\Users\Miroslav\cmder\greenfox\mirekjiranek\week-01\day-3,\Exercises\Cuboid\bin\Debug\net5.0\ref\Cuboid.dll
+C:\Users\Miroslav\cmder\greenfox\mirekjiranek\week-01\day-3,\Exercises\Cuboid\bin\Debug\net5.0\Cuboid.pdb
+C:\Users\Miroslav\cmder\greenfox\mirekjiranek\week-01\day-3,\Exercises\Cuboid\obj\Debug\net5.0\Cuboid.csproj.AssemblyReference.cache
+C:\Users\Miroslav\cmder\greenfox\mirekjiranek\week-01\day-3,\Exercises\Cuboid\obj\Debug\net5.0\Cuboid.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Miroslav\cmder\greenfox\mirekjiranek\week-01\day-3,\Exercises\Cuboid\obj\Debug\net5.0\Cuboid.AssemblyInfoInputs.cache
+C:\Users\Miroslav\cmder\greenfox\mirekjiranek\week-01\day-3,\Exercises\Cuboid\obj\Debug\net5.0\Cuboid.AssemblyInfo.cs
+C:\Users\Miroslav\cmder\greenfox\mirekjiranek\week-01\day-3,\Exercises\Cuboid\obj\Debug\net5.0\Cuboid.csproj.CoreCompileInputs.cache
+C:\Users\Miroslav\cmder\greenfox\mirekjiranek\week-01\day-3,\Exercises\Cuboid\obj\Debug\net5.0\Cuboid.dll
+C:\Users\Miroslav\cmder\greenfox\mirekjiranek\week-01\day-3,\Exercises\Cuboid\obj\Debug\net5.0\ref\Cuboid.dll
+C:\Users\Miroslav\cmder\greenfox\mirekjiranek\week-01\day-3,\Exercises\Cuboid\obj\Debug\net5.0\Cuboid.pdb
+C:\Users\Miroslav\cmder\greenfox\mirekjiranek\week-01\day-3,\Exercises\Cuboid\obj\Debug\net5.0\Cuboid.genruntimeconfig.cache

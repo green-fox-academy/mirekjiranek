@@ -1,0 +1,15 @@
+C:\Users\Miroslav\cmder\greenfox\mirekjiranek\week-01\day-3,\User input (scanner)\User input (scanner)\bin\Debug\net5.0\HelloUser.exe
+C:\Users\Miroslav\cmder\greenfox\mirekjiranek\week-01\day-3,\User input (scanner)\User input (scanner)\bin\Debug\net5.0\HelloUser.deps.json
+C:\Users\Miroslav\cmder\greenfox\mirekjiranek\week-01\day-3,\User input (scanner)\User input (scanner)\bin\Debug\net5.0\HelloUser.runtimeconfig.json
+C:\Users\Miroslav\cmder\greenfox\mirekjiranek\week-01\day-3,\User input (scanner)\User input (scanner)\bin\Debug\net5.0\HelloUser.runtimeconfig.dev.json
+C:\Users\Miroslav\cmder\greenfox\mirekjiranek\week-01\day-3,\User input (scanner)\User input (scanner)\bin\Debug\net5.0\HelloUser.dll
+C:\Users\Miroslav\cmder\greenfox\mirekjiranek\week-01\day-3,\User input (scanner)\User input (scanner)\bin\Debug\net5.0\ref\HelloUser.dll
+C:\Users\Miroslav\cmder\greenfox\mirekjiranek\week-01\day-3,\User input (scanner)\User input (scanner)\bin\Debug\net5.0\HelloUser.pdb
+C:\Users\Miroslav\cmder\greenfox\mirekjiranek\week-01\day-3,\User input (scanner)\User input (scanner)\obj\Debug\net5.0\HelloUser.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Miroslav\cmder\greenfox\mirekjiranek\week-01\day-3,\User input (scanner)\User input (scanner)\obj\Debug\net5.0\HelloUser.AssemblyInfoInputs.cache
+C:\Users\Miroslav\cmder\greenfox\mirekjiranek\week-01\day-3,\User input (scanner)\User input (scanner)\obj\Debug\net5.0\HelloUser.AssemblyInfo.cs
+C:\Users\Miroslav\cmder\greenfox\mirekjiranek\week-01\day-3,\User input (scanner)\User input (scanner)\obj\Debug\net5.0\HelloUser.csproj.CoreCompileInputs.cache
+C:\Users\Miroslav\cmder\greenfox\mirekjiranek\week-01\day-3,\User input (scanner)\User input (scanner)\obj\Debug\net5.0\HelloUser.dll
+C:\Users\Miroslav\cmder\greenfox\mirekjiranek\week-01\day-3,\User input (scanner)\User input (scanner)\obj\Debug\net5.0\ref\HelloUser.dll
+C:\Users\Miroslav\cmder\greenfox\mirekjiranek\week-01\day-3,\User input (scanner)\User input (scanner)\obj\Debug\net5.0\HelloUser.pdb
+C:\Users\Miroslav\cmder\greenfox\mirekjiranek\week-01\day-3,\User input (scanner)\User input (scanner)\obj\Debug\net5.0\HelloUser.genruntimeconfig.cache

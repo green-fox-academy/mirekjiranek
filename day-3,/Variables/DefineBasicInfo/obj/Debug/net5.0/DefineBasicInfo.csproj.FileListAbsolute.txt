@@ -1,0 +1,16 @@
+C:\Users\Miroslav\cmder\greenfox\mirekjiranek\week-01\day-3,\Exercises\DefineBasicInfo\bin\Debug\net5.0\DefineBasicInfo.exe
+C:\Users\Miroslav\cmder\greenfox\mirekjiranek\week-01\day-3,\Exercises\DefineBasicInfo\bin\Debug\net5.0\DefineBasicInfo.deps.json
+C:\Users\Miroslav\cmder\greenfox\mirekjiranek\week-01\day-3,\Exercises\DefineBasicInfo\bin\Debug\net5.0\DefineBasicInfo.runtimeconfig.json
+C:\Users\Miroslav\cmder\greenfox\mirekjiranek\week-01\day-3,\Exercises\DefineBasicInfo\bin\Debug\net5.0\DefineBasicInfo.runtimeconfig.dev.json
+C:\Users\Miroslav\cmder\greenfox\mirekjiranek\week-01\day-3,\Exercises\DefineBasicInfo\bin\Debug\net5.0\DefineBasicInfo.dll
+C:\Users\Miroslav\cmder\greenfox\mirekjiranek\week-01\day-3,\Exercises\DefineBasicInfo\bin\Debug\net5.0\ref\DefineBasicInfo.dll
+C:\Users\Miroslav\cmder\greenfox\mirekjiranek\week-01\day-3,\Exercises\DefineBasicInfo\bin\Debug\net5.0\DefineBasicInfo.pdb
+C:\Users\Miroslav\cmder\greenfox\mirekjiranek\week-01\day-3,\Exercises\DefineBasicInfo\obj\Debug\net5.0\DefineBasicInfo.csproj.AssemblyReference.cache
+C:\Users\Miroslav\cmder\greenfox\mirekjiranek\week-01\day-3,\Exercises\DefineBasicInfo\obj\Debug\net5.0\DefineBasicInfo.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Miroslav\cmder\greenfox\mirekjiranek\week-01\day-3,\Exercises\DefineBasicInfo\obj\Debug\net5.0\DefineBasicInfo.AssemblyInfoInputs.cache
+C:\Users\Miroslav\cmder\greenfox\mirekjiranek\week-01\day-3,\Exercises\DefineBasicInfo\obj\Debug\net5.0\DefineBasicInfo.AssemblyInfo.cs
+C:\Users\Miroslav\cmder\greenfox\mirekjiranek\week-01\day-3,\Exercises\DefineBasicInfo\obj\Debug\net5.0\DefineBasicInfo.csproj.CoreCompileInputs.cache
+C:\Users\Miroslav\cmder\greenfox\mirekjiranek\week-01\day-3,\Exercises\DefineBasicInfo\obj\Debug\net5.0\DefineBasicInfo.dll
+C:\Users\Miroslav\cmder\greenfox\mirekjiranek\week-01\day-3,\Exercises\DefineBasicInfo\obj\Debug\net5.0\ref\DefineBasicInfo.dll
+C:\Users\Miroslav\cmder\greenfox\mirekjiranek\week-01\day-3,\Exercises\DefineBasicInfo\obj\Debug\net5.0\DefineBasicInfo.pdb
+C:\Users\Miroslav\cmder\greenfox\mirekjiranek\week-01\day-3,\Exercises\DefineBasicInfo\obj\Debug\net5.0\DefineBasicInfo.genruntimeconfig.cache

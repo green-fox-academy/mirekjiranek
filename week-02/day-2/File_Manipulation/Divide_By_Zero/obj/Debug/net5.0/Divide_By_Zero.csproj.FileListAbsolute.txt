@@ -1,0 +1,16 @@
+C:\Users\Miroslav\cmder\greenfox\mirekjiranek\week-02\day-2\File_Manipulation\Divide_By_Zero\bin\Debug\net5.0\Divide_By_Zero.exe
+C:\Users\Miroslav\cmder\greenfox\mirekjiranek\week-02\day-2\File_Manipulation\Divide_By_Zero\bin\Debug\net5.0\Divide_By_Zero.deps.json
+C:\Users\Miroslav\cmder\greenfox\mirekjiranek\week-02\day-2\File_Manipulation\Divide_By_Zero\bin\Debug\net5.0\Divide_By_Zero.runtimeconfig.json
+C:\Users\Miroslav\cmder\greenfox\mirekjiranek\week-02\day-2\File_Manipulation\Divide_By_Zero\bin\Debug\net5.0\Divide_By_Zero.runtimeconfig.dev.json
+C:\Users\Miroslav\cmder\greenfox\mirekjiranek\week-02\day-2\File_Manipulation\Divide_By_Zero\bin\Debug\net5.0\Divide_By_Zero.dll
+C:\Users\Miroslav\cmder\greenfox\mirekjiranek\week-02\day-2\File_Manipulation\Divide_By_Zero\bin\Debug\net5.0\ref\Divide_By_Zero.dll
+C:\Users\Miroslav\cmder\greenfox\mirekjiranek\week-02\day-2\File_Manipulation\Divide_By_Zero\bin\Debug\net5.0\Divide_By_Zero.pdb
+C:\Users\Miroslav\cmder\greenfox\mirekjiranek\week-02\day-2\File_Manipulation\Divide_By_Zero\obj\Debug\net5.0\Divide_By_Zero.csproj.AssemblyReference.cache
+C:\Users\Miroslav\cmder\greenfox\mirekjiranek\week-02\day-2\File_Manipulation\Divide_By_Zero\obj\Debug\net5.0\Divide_By_Zero.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Miroslav\cmder\greenfox\mirekjiranek\week-02\day-2\File_Manipulation\Divide_By_Zero\obj\Debug\net5.0\Divide_By_Zero.AssemblyInfoInputs.cache
+C:\Users\Miroslav\cmder\greenfox\mirekjiranek\week-02\day-2\File_Manipulation\Divide_By_Zero\obj\Debug\net5.0\Divide_By_Zero.AssemblyInfo.cs
+C:\Users\Miroslav\cmder\greenfox\mirekjiranek\week-02\day-2\File_Manipulation\Divide_By_Zero\obj\Debug\net5.0\Divide_By_Zero.csproj.CoreCompileInputs.cache
+C:\Users\Miroslav\cmder\greenfox\mirekjiranek\week-02\day-2\File_Manipulation\Divide_By_Zero\obj\Debug\net5.0\Divide_By_Zero.dll
+C:\Users\Miroslav\cmder\greenfox\mirekjiranek\week-02\day-2\File_Manipulation\Divide_By_Zero\obj\Debug\net5.0\ref\Divide_By_Zero.dll
+C:\Users\Miroslav\cmder\greenfox\mirekjiranek\week-02\day-2\File_Manipulation\Divide_By_Zero\obj\Debug\net5.0\Divide_By_Zero.pdb
+C:\Users\Miroslav\cmder\greenfox\mirekjiranek\week-02\day-2\File_Manipulation\Divide_By_Zero\obj\Debug\net5.0\Divide_By_Zero.genruntimeconfig.cache

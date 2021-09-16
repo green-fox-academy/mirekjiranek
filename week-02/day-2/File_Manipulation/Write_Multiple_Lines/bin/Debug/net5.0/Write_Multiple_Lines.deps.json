@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v5.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v5.0": {
+      "Write_Multiple_Lines/1.0.0": {
+        "runtime": {
+          "Write_Multiple_Lines.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Write_Multiple_Lines/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

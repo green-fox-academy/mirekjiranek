@@ -1,0 +1,17 @@
+C:\Users\Miroslav\cmder\greenfox\mirekjiranek\week-02\day-2\File_Manipulation\Write_Multiple_Lines\bin\Debug\net5.0\Write_Multiple_Lines.exe
+C:\Users\Miroslav\cmder\greenfox\mirekjiranek\week-02\day-2\File_Manipulation\Write_Multiple_Lines\bin\Debug\net5.0\Assets\multiple.txt
+C:\Users\Miroslav\cmder\greenfox\mirekjiranek\week-02\day-2\File_Manipulation\Write_Multiple_Lines\bin\Debug\net5.0\Write_Multiple_Lines.deps.json
+C:\Users\Miroslav\cmder\greenfox\mirekjiranek\week-02\day-2\File_Manipulation\Write_Multiple_Lines\bin\Debug\net5.0\Write_Multiple_Lines.runtimeconfig.json
+C:\Users\Miroslav\cmder\greenfox\mirekjiranek\week-02\day-2\File_Manipulation\Write_Multiple_Lines\bin\Debug\net5.0\Write_Multiple_Lines.runtimeconfig.dev.json
+C:\Users\Miroslav\cmder\greenfox\mirekjiranek\week-02\day-2\File_Manipulation\Write_Multiple_Lines\bin\Debug\net5.0\Write_Multiple_Lines.dll
+C:\Users\Miroslav\cmder\greenfox\mirekjiranek\week-02\day-2\File_Manipulation\Write_Multiple_Lines\bin\Debug\net5.0\ref\Write_Multiple_Lines.dll
+C:\Users\Miroslav\cmder\greenfox\mirekjiranek\week-02\day-2\File_Manipulation\Write_Multiple_Lines\bin\Debug\net5.0\Write_Multiple_Lines.pdb
+C:\Users\Miroslav\cmder\greenfox\mirekjiranek\week-02\day-2\File_Manipulation\Write_Multiple_Lines\obj\Debug\net5.0\Write_Multiple_Lines.csproj.AssemblyReference.cache
+C:\Users\Miroslav\cmder\greenfox\mirekjiranek\week-02\day-2\File_Manipulation\Write_Multiple_Lines\obj\Debug\net5.0\Write_Multiple_Lines.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Miroslav\cmder\greenfox\mirekjiranek\week-02\day-2\File_Manipulation\Write_Multiple_Lines\obj\Debug\net5.0\Write_Multiple_Lines.AssemblyInfoInputs.cache
+C:\Users\Miroslav\cmder\greenfox\mirekjiranek\week-02\day-2\File_Manipulation\Write_Multiple_Lines\obj\Debug\net5.0\Write_Multiple_Lines.AssemblyInfo.cs
+C:\Users\Miroslav\cmder\greenfox\mirekjiranek\week-02\day-2\File_Manipulation\Write_Multiple_Lines\obj\Debug\net5.0\Write_Multiple_Lines.csproj.CoreCompileInputs.cache
+C:\Users\Miroslav\cmder\greenfox\mirekjiranek\week-02\day-2\File_Manipulation\Write_Multiple_Lines\obj\Debug\net5.0\Write_Multiple_Lines.dll
+C:\Users\Miroslav\cmder\greenfox\mirekjiranek\week-02\day-2\File_Manipulation\Write_Multiple_Lines\obj\Debug\net5.0\ref\Write_Multiple_Lines.dll
+C:\Users\Miroslav\cmder\greenfox\mirekjiranek\week-02\day-2\File_Manipulation\Write_Multiple_Lines\obj\Debug\net5.0\Write_Multiple_Lines.pdb
+C:\Users\Miroslav\cmder\greenfox\mirekjiranek\week-02\day-2\File_Manipulation\Write_Multiple_Lines\obj\Debug\net5.0\Write_Multiple_Lines.genruntimeconfig.cache

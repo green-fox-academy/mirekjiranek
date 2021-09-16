@@ -1,0 +1,17 @@
+C:\Users\Miroslav\cmder\greenfox\mirekjiranek\week-02\day-2\File_Manipulation\Print_Each_line\bin\Debug\net5.0\Print_Each_line.exe
+C:\Users\Miroslav\cmder\greenfox\mirekjiranek\week-02\day-2\File_Manipulation\Print_Each_line\bin\Debug\net5.0\Print_Each_line.deps.json
+C:\Users\Miroslav\cmder\greenfox\mirekjiranek\week-02\day-2\File_Manipulation\Print_Each_line\bin\Debug\net5.0\Print_Each_line.runtimeconfig.json
+C:\Users\Miroslav\cmder\greenfox\mirekjiranek\week-02\day-2\File_Manipulation\Print_Each_line\bin\Debug\net5.0\Print_Each_line.runtimeconfig.dev.json
+C:\Users\Miroslav\cmder\greenfox\mirekjiranek\week-02\day-2\File_Manipulation\Print_Each_line\bin\Debug\net5.0\Print_Each_line.dll
+C:\Users\Miroslav\cmder\greenfox\mirekjiranek\week-02\day-2\File_Manipulation\Print_Each_line\bin\Debug\net5.0\ref\Print_Each_line.dll
+C:\Users\Miroslav\cmder\greenfox\mirekjiranek\week-02\day-2\File_Manipulation\Print_Each_line\bin\Debug\net5.0\Print_Each_line.pdb
+C:\Users\Miroslav\cmder\greenfox\mirekjiranek\week-02\day-2\File_Manipulation\Print_Each_line\obj\Debug\net5.0\Print_Each_line.csproj.AssemblyReference.cache
+C:\Users\Miroslav\cmder\greenfox\mirekjiranek\week-02\day-2\File_Manipulation\Print_Each_line\obj\Debug\net5.0\Print_Each_line.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Miroslav\cmder\greenfox\mirekjiranek\week-02\day-2\File_Manipulation\Print_Each_line\obj\Debug\net5.0\Print_Each_line.AssemblyInfoInputs.cache
+C:\Users\Miroslav\cmder\greenfox\mirekjiranek\week-02\day-2\File_Manipulation\Print_Each_line\obj\Debug\net5.0\Print_Each_line.AssemblyInfo.cs
+C:\Users\Miroslav\cmder\greenfox\mirekjiranek\week-02\day-2\File_Manipulation\Print_Each_line\obj\Debug\net5.0\Print_Each_line.csproj.CoreCompileInputs.cache
+C:\Users\Miroslav\cmder\greenfox\mirekjiranek\week-02\day-2\File_Manipulation\Print_Each_line\obj\Debug\net5.0\Print_Each_line.dll
+C:\Users\Miroslav\cmder\greenfox\mirekjiranek\week-02\day-2\File_Manipulation\Print_Each_line\obj\Debug\net5.0\ref\Print_Each_line.dll
+C:\Users\Miroslav\cmder\greenfox\mirekjiranek\week-02\day-2\File_Manipulation\Print_Each_line\obj\Debug\net5.0\Print_Each_line.pdb
+C:\Users\Miroslav\cmder\greenfox\mirekjiranek\week-02\day-2\File_Manipulation\Print_Each_line\obj\Debug\net5.0\Print_Each_line.genruntimeconfig.cache
+C:\Users\Miroslav\cmder\greenfox\mirekjiranek\week-02\day-2\File_Manipulation\Print_Each_line\bin\Debug\net5.0\Assets\new-file.txt

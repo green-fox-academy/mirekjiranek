@@ -1,0 +1,16 @@
+C:\Users\Miroslav\cmder\greenfox\mirekjiranek\week-02\day-1\Strings\Takes_Longer\bin\Debug\net5.0\Takes_Longer.exe
+C:\Users\Miroslav\cmder\greenfox\mirekjiranek\week-02\day-1\Strings\Takes_Longer\bin\Debug\net5.0\Takes_Longer.deps.json
+C:\Users\Miroslav\cmder\greenfox\mirekjiranek\week-02\day-1\Strings\Takes_Longer\bin\Debug\net5.0\Takes_Longer.runtimeconfig.json
+C:\Users\Miroslav\cmder\greenfox\mirekjiranek\week-02\day-1\Strings\Takes_Longer\bin\Debug\net5.0\Takes_Longer.runtimeconfig.dev.json
+C:\Users\Miroslav\cmder\greenfox\mirekjiranek\week-02\day-1\Strings\Takes_Longer\bin\Debug\net5.0\Takes_Longer.dll
+C:\Users\Miroslav\cmder\greenfox\mirekjiranek\week-02\day-1\Strings\Takes_Longer\bin\Debug\net5.0\ref\Takes_Longer.dll
+C:\Users\Miroslav\cmder\greenfox\mirekjiranek\week-02\day-1\Strings\Takes_Longer\bin\Debug\net5.0\Takes_Longer.pdb
+C:\Users\Miroslav\cmder\greenfox\mirekjiranek\week-02\day-1\Strings\Takes_Longer\obj\Debug\net5.0\Takes_Longer.csproj.AssemblyReference.cache
+C:\Users\Miroslav\cmder\greenfox\mirekjiranek\week-02\day-1\Strings\Takes_Longer\obj\Debug\net5.0\Takes_Longer.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Miroslav\cmder\greenfox\mirekjiranek\week-02\day-1\Strings\Takes_Longer\obj\Debug\net5.0\Takes_Longer.AssemblyInfoInputs.cache
+C:\Users\Miroslav\cmder\greenfox\mirekjiranek\week-02\day-1\Strings\Takes_Longer\obj\Debug\net5.0\Takes_Longer.AssemblyInfo.cs
+C:\Users\Miroslav\cmder\greenfox\mirekjiranek\week-02\day-1\Strings\Takes_Longer\obj\Debug\net5.0\Takes_Longer.csproj.CoreCompileInputs.cache
+C:\Users\Miroslav\cmder\greenfox\mirekjiranek\week-02\day-1\Strings\Takes_Longer\obj\Debug\net5.0\Takes_Longer.dll
+C:\Users\Miroslav\cmder\greenfox\mirekjiranek\week-02\day-1\Strings\Takes_Longer\obj\Debug\net5.0\ref\Takes_Longer.dll
+C:\Users\Miroslav\cmder\greenfox\mirekjiranek\week-02\day-1\Strings\Takes_Longer\obj\Debug\net5.0\Takes_Longer.pdb
+C:\Users\Miroslav\cmder\greenfox\mirekjiranek\week-02\day-1\Strings\Takes_Longer\obj\Debug\net5.0\Takes_Longer.genruntimeconfig.cache

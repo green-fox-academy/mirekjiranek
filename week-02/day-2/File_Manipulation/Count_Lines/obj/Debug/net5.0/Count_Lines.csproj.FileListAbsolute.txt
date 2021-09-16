@@ -1,0 +1,17 @@
+C:\Users\Miroslav\cmder\greenfox\mirekjiranek\week-02\day-2\File_Manipulation\Count_Lines\bin\Debug\net5.0\Count_Lines.exe
+C:\Users\Miroslav\cmder\greenfox\mirekjiranek\week-02\day-2\File_Manipulation\Count_Lines\bin\Debug\net5.0\Count_Lines.deps.json
+C:\Users\Miroslav\cmder\greenfox\mirekjiranek\week-02\day-2\File_Manipulation\Count_Lines\bin\Debug\net5.0\Count_Lines.runtimeconfig.json
+C:\Users\Miroslav\cmder\greenfox\mirekjiranek\week-02\day-2\File_Manipulation\Count_Lines\bin\Debug\net5.0\Count_Lines.runtimeconfig.dev.json
+C:\Users\Miroslav\cmder\greenfox\mirekjiranek\week-02\day-2\File_Manipulation\Count_Lines\bin\Debug\net5.0\Count_Lines.dll
+C:\Users\Miroslav\cmder\greenfox\mirekjiranek\week-02\day-2\File_Manipulation\Count_Lines\bin\Debug\net5.0\ref\Count_Lines.dll
+C:\Users\Miroslav\cmder\greenfox\mirekjiranek\week-02\day-2\File_Manipulation\Count_Lines\bin\Debug\net5.0\Count_Lines.pdb
+C:\Users\Miroslav\cmder\greenfox\mirekjiranek\week-02\day-2\File_Manipulation\Count_Lines\obj\Debug\net5.0\Count_Lines.csproj.AssemblyReference.cache
+C:\Users\Miroslav\cmder\greenfox\mirekjiranek\week-02\day-2\File_Manipulation\Count_Lines\obj\Debug\net5.0\Count_Lines.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Miroslav\cmder\greenfox\mirekjiranek\week-02\day-2\File_Manipulation\Count_Lines\obj\Debug\net5.0\Count_Lines.AssemblyInfoInputs.cache
+C:\Users\Miroslav\cmder\greenfox\mirekjiranek\week-02\day-2\File_Manipulation\Count_Lines\obj\Debug\net5.0\Count_Lines.AssemblyInfo.cs
+C:\Users\Miroslav\cmder\greenfox\mirekjiranek\week-02\day-2\File_Manipulation\Count_Lines\obj\Debug\net5.0\Count_Lines.csproj.CoreCompileInputs.cache
+C:\Users\Miroslav\cmder\greenfox\mirekjiranek\week-02\day-2\File_Manipulation\Count_Lines\obj\Debug\net5.0\Count_Lines.dll
+C:\Users\Miroslav\cmder\greenfox\mirekjiranek\week-02\day-2\File_Manipulation\Count_Lines\obj\Debug\net5.0\ref\Count_Lines.dll
+C:\Users\Miroslav\cmder\greenfox\mirekjiranek\week-02\day-2\File_Manipulation\Count_Lines\obj\Debug\net5.0\Count_Lines.pdb
+C:\Users\Miroslav\cmder\greenfox\mirekjiranek\week-02\day-2\File_Manipulation\Count_Lines\obj\Debug\net5.0\Count_Lines.genruntimeconfig.cache
+C:\Users\Miroslav\cmder\greenfox\mirekjiranek\week-02\day-2\File_Manipulation\Count_Lines\bin\Debug\net5.0\Assets\myFile.txt

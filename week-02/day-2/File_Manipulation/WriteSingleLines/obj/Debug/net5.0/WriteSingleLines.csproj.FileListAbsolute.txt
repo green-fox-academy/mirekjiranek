@@ -1,0 +1,17 @@
+C:\Users\Miroslav\cmder\greenfox\mirekjiranek\week-02\day-2\File_Manipulation\WriteSingleLines\bin\Debug\net5.0\WriteSingleLines.exe
+C:\Users\Miroslav\cmder\greenfox\mirekjiranek\week-02\day-2\File_Manipulation\WriteSingleLines\bin\Debug\net5.0\WriteSingleLines.deps.json
+C:\Users\Miroslav\cmder\greenfox\mirekjiranek\week-02\day-2\File_Manipulation\WriteSingleLines\bin\Debug\net5.0\WriteSingleLines.runtimeconfig.json
+C:\Users\Miroslav\cmder\greenfox\mirekjiranek\week-02\day-2\File_Manipulation\WriteSingleLines\bin\Debug\net5.0\WriteSingleLines.runtimeconfig.dev.json
+C:\Users\Miroslav\cmder\greenfox\mirekjiranek\week-02\day-2\File_Manipulation\WriteSingleLines\bin\Debug\net5.0\WriteSingleLines.dll
+C:\Users\Miroslav\cmder\greenfox\mirekjiranek\week-02\day-2\File_Manipulation\WriteSingleLines\bin\Debug\net5.0\ref\WriteSingleLines.dll
+C:\Users\Miroslav\cmder\greenfox\mirekjiranek\week-02\day-2\File_Manipulation\WriteSingleLines\bin\Debug\net5.0\WriteSingleLines.pdb
+C:\Users\Miroslav\cmder\greenfox\mirekjiranek\week-02\day-2\File_Manipulation\WriteSingleLines\obj\Debug\net5.0\WriteSingleLines.csproj.AssemblyReference.cache
+C:\Users\Miroslav\cmder\greenfox\mirekjiranek\week-02\day-2\File_Manipulation\WriteSingleLines\obj\Debug\net5.0\WriteSingleLines.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Miroslav\cmder\greenfox\mirekjiranek\week-02\day-2\File_Manipulation\WriteSingleLines\obj\Debug\net5.0\WriteSingleLines.AssemblyInfoInputs.cache
+C:\Users\Miroslav\cmder\greenfox\mirekjiranek\week-02\day-2\File_Manipulation\WriteSingleLines\obj\Debug\net5.0\WriteSingleLines.AssemblyInfo.cs
+C:\Users\Miroslav\cmder\greenfox\mirekjiranek\week-02\day-2\File_Manipulation\WriteSingleLines\obj\Debug\net5.0\WriteSingleLines.csproj.CoreCompileInputs.cache
+C:\Users\Miroslav\cmder\greenfox\mirekjiranek\week-02\day-2\File_Manipulation\WriteSingleLines\obj\Debug\net5.0\WriteSingleLines.dll
+C:\Users\Miroslav\cmder\greenfox\mirekjiranek\week-02\day-2\File_Manipulation\WriteSingleLines\obj\Debug\net5.0\ref\WriteSingleLines.dll
+C:\Users\Miroslav\cmder\greenfox\mirekjiranek\week-02\day-2\File_Manipulation\WriteSingleLines\obj\Debug\net5.0\WriteSingleLines.pdb
+C:\Users\Miroslav\cmder\greenfox\mirekjiranek\week-02\day-2\File_Manipulation\WriteSingleLines\obj\Debug\net5.0\WriteSingleLines.genruntimeconfig.cache
+C:\Users\Miroslav\cmder\greenfox\mirekjiranek\week-02\day-2\File_Manipulation\WriteSingleLines\bin\Debug\net5.0\Assets\my-file.txt

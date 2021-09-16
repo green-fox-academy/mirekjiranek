@@ -1,0 +1,15 @@
+C:\Users\Miroslav\cmder\greenfox\mirekjiranek\week-02\day-1\Strings\Reverse\bin\Debug\net5.0\Reverse.exe
+C:\Users\Miroslav\cmder\greenfox\mirekjiranek\week-02\day-1\Strings\Reverse\bin\Debug\net5.0\Reverse.deps.json
+C:\Users\Miroslav\cmder\greenfox\mirekjiranek\week-02\day-1\Strings\Reverse\bin\Debug\net5.0\Reverse.runtimeconfig.json
+C:\Users\Miroslav\cmder\greenfox\mirekjiranek\week-02\day-1\Strings\Reverse\bin\Debug\net5.0\Reverse.runtimeconfig.dev.json
+C:\Users\Miroslav\cmder\greenfox\mirekjiranek\week-02\day-1\Strings\Reverse\bin\Debug\net5.0\Reverse.dll
+C:\Users\Miroslav\cmder\greenfox\mirekjiranek\week-02\day-1\Strings\Reverse\bin\Debug\net5.0\ref\Reverse.dll
+C:\Users\Miroslav\cmder\greenfox\mirekjiranek\week-02\day-1\Strings\Reverse\bin\Debug\net5.0\Reverse.pdb
+C:\Users\Miroslav\cmder\greenfox\mirekjiranek\week-02\day-1\Strings\Reverse\obj\Debug\net5.0\Reverse.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Miroslav\cmder\greenfox\mirekjiranek\week-02\day-1\Strings\Reverse\obj\Debug\net5.0\Reverse.AssemblyInfoInputs.cache
+C:\Users\Miroslav\cmder\greenfox\mirekjiranek\week-02\day-1\Strings\Reverse\obj\Debug\net5.0\Reverse.AssemblyInfo.cs
+C:\Users\Miroslav\cmder\greenfox\mirekjiranek\week-02\day-1\Strings\Reverse\obj\Debug\net5.0\Reverse.csproj.CoreCompileInputs.cache
+C:\Users\Miroslav\cmder\greenfox\mirekjiranek\week-02\day-1\Strings\Reverse\obj\Debug\net5.0\Reverse.dll
+C:\Users\Miroslav\cmder\greenfox\mirekjiranek\week-02\day-1\Strings\Reverse\obj\Debug\net5.0\ref\Reverse.dll
+C:\Users\Miroslav\cmder\greenfox\mirekjiranek\week-02\day-1\Strings\Reverse\obj\Debug\net5.0\Reverse.pdb
+C:\Users\Miroslav\cmder\greenfox\mirekjiranek\week-02\day-1\Strings\Reverse\obj\Debug\net5.0\Reverse.genruntimeconfig.cache

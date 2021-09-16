@@ -1,0 +1,16 @@
+C:\Users\Miroslav\cmder\greenfox\mirekjiranek\week-02\day-1\Data_Structures\Map_Introduction_1\bin\Debug\net5.0\Map_Introduction_1.exe
+C:\Users\Miroslav\cmder\greenfox\mirekjiranek\week-02\day-1\Data_Structures\Map_Introduction_1\bin\Debug\net5.0\Map_Introduction_1.deps.json
+C:\Users\Miroslav\cmder\greenfox\mirekjiranek\week-02\day-1\Data_Structures\Map_Introduction_1\bin\Debug\net5.0\Map_Introduction_1.runtimeconfig.json
+C:\Users\Miroslav\cmder\greenfox\mirekjiranek\week-02\day-1\Data_Structures\Map_Introduction_1\bin\Debug\net5.0\Map_Introduction_1.runtimeconfig.dev.json
+C:\Users\Miroslav\cmder\greenfox\mirekjiranek\week-02\day-1\Data_Structures\Map_Introduction_1\bin\Debug\net5.0\Map_Introduction_1.dll
+C:\Users\Miroslav\cmder\greenfox\mirekjiranek\week-02\day-1\Data_Structures\Map_Introduction_1\bin\Debug\net5.0\ref\Map_Introduction_1.dll
+C:\Users\Miroslav\cmder\greenfox\mirekjiranek\week-02\day-1\Data_Structures\Map_Introduction_1\bin\Debug\net5.0\Map_Introduction_1.pdb
+C:\Users\Miroslav\cmder\greenfox\mirekjiranek\week-02\day-1\Data_Structures\Map_Introduction_1\obj\Debug\net5.0\Map_Introduction_1.csproj.AssemblyReference.cache
+C:\Users\Miroslav\cmder\greenfox\mirekjiranek\week-02\day-1\Data_Structures\Map_Introduction_1\obj\Debug\net5.0\Map_Introduction_1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Miroslav\cmder\greenfox\mirekjiranek\week-02\day-1\Data_Structures\Map_Introduction_1\obj\Debug\net5.0\Map_Introduction_1.AssemblyInfoInputs.cache
+C:\Users\Miroslav\cmder\greenfox\mirekjiranek\week-02\day-1\Data_Structures\Map_Introduction_1\obj\Debug\net5.0\Map_Introduction_1.AssemblyInfo.cs
+C:\Users\Miroslav\cmder\greenfox\mirekjiranek\week-02\day-1\Data_Structures\Map_Introduction_1\obj\Debug\net5.0\Map_Introduction_1.csproj.CoreCompileInputs.cache
+C:\Users\Miroslav\cmder\greenfox\mirekjiranek\week-02\day-1\Data_Structures\Map_Introduction_1\obj\Debug\net5.0\Map_Introduction_1.dll
+C:\Users\Miroslav\cmder\greenfox\mirekjiranek\week-02\day-1\Data_Structures\Map_Introduction_1\obj\Debug\net5.0\ref\Map_Introduction_1.dll
+C:\Users\Miroslav\cmder\greenfox\mirekjiranek\week-02\day-1\Data_Structures\Map_Introduction_1\obj\Debug\net5.0\Map_Introduction_1.pdb
+C:\Users\Miroslav\cmder\greenfox\mirekjiranek\week-02\day-1\Data_Structures\Map_Introduction_1\obj\Debug\net5.0\Map_Introduction_1.genruntimeconfig.cache

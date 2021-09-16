@@ -1,0 +1,15 @@
+C:\Users\Miroslav\cmder\greenfox\mirekjiranek\week-02\day-1\Strings\Url_Fixer\bin\Debug\net5.0\Url_Fixer.exe
+C:\Users\Miroslav\cmder\greenfox\mirekjiranek\week-02\day-1\Strings\Url_Fixer\bin\Debug\net5.0\Url_Fixer.deps.json
+C:\Users\Miroslav\cmder\greenfox\mirekjiranek\week-02\day-1\Strings\Url_Fixer\bin\Debug\net5.0\Url_Fixer.runtimeconfig.json
+C:\Users\Miroslav\cmder\greenfox\mirekjiranek\week-02\day-1\Strings\Url_Fixer\bin\Debug\net5.0\Url_Fixer.runtimeconfig.dev.json
+C:\Users\Miroslav\cmder\greenfox\mirekjiranek\week-02\day-1\Strings\Url_Fixer\bin\Debug\net5.0\Url_Fixer.dll
+C:\Users\Miroslav\cmder\greenfox\mirekjiranek\week-02\day-1\Strings\Url_Fixer\bin\Debug\net5.0\ref\Url_Fixer.dll
+C:\Users\Miroslav\cmder\greenfox\mirekjiranek\week-02\day-1\Strings\Url_Fixer\bin\Debug\net5.0\Url_Fixer.pdb
+C:\Users\Miroslav\cmder\greenfox\mirekjiranek\week-02\day-1\Strings\Url_Fixer\obj\Debug\net5.0\Url_Fixer.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Miroslav\cmder\greenfox\mirekjiranek\week-02\day-1\Strings\Url_Fixer\obj\Debug\net5.0\Url_Fixer.AssemblyInfoInputs.cache
+C:\Users\Miroslav\cmder\greenfox\mirekjiranek\week-02\day-1\Strings\Url_Fixer\obj\Debug\net5.0\Url_Fixer.AssemblyInfo.cs
+C:\Users\Miroslav\cmder\greenfox\mirekjiranek\week-02\day-1\Strings\Url_Fixer\obj\Debug\net5.0\Url_Fixer.csproj.CoreCompileInputs.cache
+C:\Users\Miroslav\cmder\greenfox\mirekjiranek\week-02\day-1\Strings\Url_Fixer\obj\Debug\net5.0\Url_Fixer.dll
+C:\Users\Miroslav\cmder\greenfox\mirekjiranek\week-02\day-1\Strings\Url_Fixer\obj\Debug\net5.0\ref\Url_Fixer.dll
+C:\Users\Miroslav\cmder\greenfox\mirekjiranek\week-02\day-1\Strings\Url_Fixer\obj\Debug\net5.0\Url_Fixer.pdb
+C:\Users\Miroslav\cmder\greenfox\mirekjiranek\week-02\day-1\Strings\Url_Fixer\obj\Debug\net5.0\Url_Fixer.genruntimeconfig.cache

@@ -1,0 +1,15 @@
+C:\Users\Miroslav\cmder\greenfox\mirekjiranek\week-02\day-5\Recurions\BunniesAgain\bin\Debug\net5.0\BunniesAgain.exe
+C:\Users\Miroslav\cmder\greenfox\mirekjiranek\week-02\day-5\Recurions\BunniesAgain\bin\Debug\net5.0\BunniesAgain.deps.json
+C:\Users\Miroslav\cmder\greenfox\mirekjiranek\week-02\day-5\Recurions\BunniesAgain\bin\Debug\net5.0\BunniesAgain.runtimeconfig.json
+C:\Users\Miroslav\cmder\greenfox\mirekjiranek\week-02\day-5\Recurions\BunniesAgain\bin\Debug\net5.0\BunniesAgain.runtimeconfig.dev.json
+C:\Users\Miroslav\cmder\greenfox\mirekjiranek\week-02\day-5\Recurions\BunniesAgain\bin\Debug\net5.0\BunniesAgain.dll
+C:\Users\Miroslav\cmder\greenfox\mirekjiranek\week-02\day-5\Recurions\BunniesAgain\bin\Debug\net5.0\ref\BunniesAgain.dll
+C:\Users\Miroslav\cmder\greenfox\mirekjiranek\week-02\day-5\Recurions\BunniesAgain\bin\Debug\net5.0\BunniesAgain.pdb
+C:\Users\Miroslav\cmder\greenfox\mirekjiranek\week-02\day-5\Recurions\BunniesAgain\obj\Debug\net5.0\BunniesAgain.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Miroslav\cmder\greenfox\mirekjiranek\week-02\day-5\Recurions\BunniesAgain\obj\Debug\net5.0\BunniesAgain.AssemblyInfoInputs.cache
+C:\Users\Miroslav\cmder\greenfox\mirekjiranek\week-02\day-5\Recurions\BunniesAgain\obj\Debug\net5.0\BunniesAgain.AssemblyInfo.cs
+C:\Users\Miroslav\cmder\greenfox\mirekjiranek\week-02\day-5\Recurions\BunniesAgain\obj\Debug\net5.0\BunniesAgain.csproj.CoreCompileInputs.cache
+C:\Users\Miroslav\cmder\greenfox\mirekjiranek\week-02\day-5\Recurions\BunniesAgain\obj\Debug\net5.0\BunniesAgain.dll
+C:\Users\Miroslav\cmder\greenfox\mirekjiranek\week-02\day-5\Recurions\BunniesAgain\obj\Debug\net5.0\ref\BunniesAgain.dll
+C:\Users\Miroslav\cmder\greenfox\mirekjiranek\week-02\day-5\Recurions\BunniesAgain\obj\Debug\net5.0\BunniesAgain.pdb
+C:\Users\Miroslav\cmder\greenfox\mirekjiranek\week-02\day-5\Recurions\BunniesAgain\obj\Debug\net5.0\BunniesAgain.genruntimeconfig.cache

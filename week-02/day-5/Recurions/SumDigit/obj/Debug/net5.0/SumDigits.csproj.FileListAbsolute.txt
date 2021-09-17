@@ -1,0 +1,16 @@
+C:\Users\Miroslav\cmder\greenfox\mirekjiranek\week-02\day-5\Recurions\SumDigit\bin\Debug\net5.0\SumDigits.exe
+C:\Users\Miroslav\cmder\greenfox\mirekjiranek\week-02\day-5\Recurions\SumDigit\bin\Debug\net5.0\SumDigits.deps.json
+C:\Users\Miroslav\cmder\greenfox\mirekjiranek\week-02\day-5\Recurions\SumDigit\bin\Debug\net5.0\SumDigits.runtimeconfig.json
+C:\Users\Miroslav\cmder\greenfox\mirekjiranek\week-02\day-5\Recurions\SumDigit\bin\Debug\net5.0\SumDigits.runtimeconfig.dev.json
+C:\Users\Miroslav\cmder\greenfox\mirekjiranek\week-02\day-5\Recurions\SumDigit\bin\Debug\net5.0\SumDigits.dll
+C:\Users\Miroslav\cmder\greenfox\mirekjiranek\week-02\day-5\Recurions\SumDigit\bin\Debug\net5.0\ref\SumDigits.dll
+C:\Users\Miroslav\cmder\greenfox\mirekjiranek\week-02\day-5\Recurions\SumDigit\bin\Debug\net5.0\SumDigits.pdb
+C:\Users\Miroslav\cmder\greenfox\mirekjiranek\week-02\day-5\Recurions\SumDigit\obj\Debug\net5.0\SumDigits.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Miroslav\cmder\greenfox\mirekjiranek\week-02\day-5\Recurions\SumDigit\obj\Debug\net5.0\SumDigits.AssemblyInfoInputs.cache
+C:\Users\Miroslav\cmder\greenfox\mirekjiranek\week-02\day-5\Recurions\SumDigit\obj\Debug\net5.0\SumDigits.AssemblyInfo.cs
+C:\Users\Miroslav\cmder\greenfox\mirekjiranek\week-02\day-5\Recurions\SumDigit\obj\Debug\net5.0\SumDigits.csproj.CoreCompileInputs.cache
+C:\Users\Miroslav\cmder\greenfox\mirekjiranek\week-02\day-5\Recurions\SumDigit\obj\Debug\net5.0\SumDigits.dll
+C:\Users\Miroslav\cmder\greenfox\mirekjiranek\week-02\day-5\Recurions\SumDigit\obj\Debug\net5.0\ref\SumDigits.dll
+C:\Users\Miroslav\cmder\greenfox\mirekjiranek\week-02\day-5\Recurions\SumDigit\obj\Debug\net5.0\SumDigits.pdb
+C:\Users\Miroslav\cmder\greenfox\mirekjiranek\week-02\day-5\Recurions\SumDigit\obj\Debug\net5.0\SumDigits.genruntimeconfig.cache
+C:\Users\Miroslav\cmder\greenfox\mirekjiranek\week-02\day-5\Recurions\SumDigit\obj\Debug\net5.0\SumDigits.csproj.AssemblyReference.cache

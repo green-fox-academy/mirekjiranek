@@ -13,3 +13,4 @@ C:\Users\Miroslav\cmder\greenfox\mirekjiranek\week-02\day-1\Strings\Reverse\obj\
 C:\Users\Miroslav\cmder\greenfox\mirekjiranek\week-02\day-1\Strings\Reverse\obj\Debug\net5.0\ref\Reverse.dll
 C:\Users\Miroslav\cmder\greenfox\mirekjiranek\week-02\day-1\Strings\Reverse\obj\Debug\net5.0\Reverse.pdb
 C:\Users\Miroslav\cmder\greenfox\mirekjiranek\week-02\day-1\Strings\Reverse\obj\Debug\net5.0\Reverse.genruntimeconfig.cache
+C:\Users\Miroslav\cmder\greenfox\mirekjiranek\week-02\day-1\Strings\Reverse\obj\Debug\net5.0\Reverse.csproj.AssemblyReference.cache

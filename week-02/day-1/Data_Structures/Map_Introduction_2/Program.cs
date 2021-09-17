@@ -12,10 +12,30 @@ namespace Map_Introduction_2
                 {"978-1-60309-452-8" , "A Letter to Jo"} ,
                 {"978-1-60309-459-7" , "Lupus"} ,
                 {"978-1-60309-444-3" , "Red Panda and Moon Bear"} ,
-                {"978-1-60309-461-0	" , "The Lab"}
+                {"978-1-60309-461-0" , "The Lab"}
             };
-            string value;
-            Console.WriteLine(map["978-1-60309-452-8"] + "(ISBN: " + map. + ")");
+
+            foreach (KeyValuePair<string, string> pair in map)
+            {
+                Console.WriteLine(pair.Value + "(ISBN: " + pair.Key + ")");
+            }
+            map.Remove("978-1-60309-444-3");
+
+            foreach (KeyValuePair<string, string> pair in map)
+            {
+                if (pair.Value == "The Lab")
+                {
+                    map.Remove(pair.Key);
+                }
+            }
+
+            map.Add("978-1-60309-450-4","They Called Us Enemy");
+            map.Add("978-1-60309-453-5", "Why Did We Trust Him?");
+
+            Console.WriteLine(map.TryGetValue("478-0-61159-424-8",out string value));
+
+            Console.WriteLine(map.TryGetValue("978-1-60309-453-5",out string newvalue));
+
 
         }
     }

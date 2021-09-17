@@ -1,0 +1,16 @@
+C:\Users\Miroslav\cmder\greenfox\mirekjiranek\week-02\day-5\Recurions\GreatestCommonDivision\obj\Debug\net5.0\GreatestCommonDivision.csproj.AssemblyReference.cache
+C:\Users\Miroslav\cmder\greenfox\mirekjiranek\week-02\day-5\Recurions\GreatestCommonDivision\obj\Debug\net5.0\GreatestCommonDivision.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Miroslav\cmder\greenfox\mirekjiranek\week-02\day-5\Recurions\GreatestCommonDivision\obj\Debug\net5.0\GreatestCommonDivision.AssemblyInfoInputs.cache
+C:\Users\Miroslav\cmder\greenfox\mirekjiranek\week-02\day-5\Recurions\GreatestCommonDivision\obj\Debug\net5.0\GreatestCommonDivision.AssemblyInfo.cs
+C:\Users\Miroslav\cmder\greenfox\mirekjiranek\week-02\day-5\Recurions\GreatestCommonDivision\obj\Debug\net5.0\GreatestCommonDivision.csproj.CoreCompileInputs.cache
+C:\Users\Miroslav\cmder\greenfox\mirekjiranek\week-02\day-5\Recurions\GreatestCommonDivision\bin\Debug\net5.0\GreatestCommonDivision.exe
+C:\Users\Miroslav\cmder\greenfox\mirekjiranek\week-02\day-5\Recurions\GreatestCommonDivision\bin\Debug\net5.0\GreatestCommonDivision.deps.json
+C:\Users\Miroslav\cmder\greenfox\mirekjiranek\week-02\day-5\Recurions\GreatestCommonDivision\bin\Debug\net5.0\GreatestCommonDivision.runtimeconfig.json
+C:\Users\Miroslav\cmder\greenfox\mirekjiranek\week-02\day-5\Recurions\GreatestCommonDivision\bin\Debug\net5.0\GreatestCommonDivision.runtimeconfig.dev.json
+C:\Users\Miroslav\cmder\greenfox\mirekjiranek\week-02\day-5\Recurions\GreatestCommonDivision\bin\Debug\net5.0\GreatestCommonDivision.dll
+C:\Users\Miroslav\cmder\greenfox\mirekjiranek\week-02\day-5\Recurions\GreatestCommonDivision\bin\Debug\net5.0\ref\GreatestCommonDivision.dll
+C:\Users\Miroslav\cmder\greenfox\mirekjiranek\week-02\day-5\Recurions\GreatestCommonDivision\bin\Debug\net5.0\GreatestCommonDivision.pdb
+C:\Users\Miroslav\cmder\greenfox\mirekjiranek\week-02\day-5\Recurions\GreatestCommonDivision\obj\Debug\net5.0\GreatestCommonDivision.dll
+C:\Users\Miroslav\cmder\greenfox\mirekjiranek\week-02\day-5\Recurions\GreatestCommonDivision\obj\Debug\net5.0\ref\GreatestCommonDivision.dll
+C:\Users\Miroslav\cmder\greenfox\mirekjiranek\week-02\day-5\Recurions\GreatestCommonDivision\obj\Debug\net5.0\GreatestCommonDivision.pdb
+C:\Users\Miroslav\cmder\greenfox\mirekjiranek\week-02\day-5\Recurions\GreatestCommonDivision\obj\Debug\net5.0\GreatestCommonDivision.genruntimeconfig.cache

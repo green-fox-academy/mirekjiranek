@@ -18,9 +18,14 @@ namespace PetrolStation
             this.capacity = 100;
         }
 
-        public int getCapacity()
+        public int GetCapacity()
         {
             return capacity;
+        }
+
+        public int Refill()
+        {
+            return gasAmount = capacity;
         }
 
     }

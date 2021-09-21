@@ -17,7 +17,8 @@ namespace PetrolStation
 
         public void Refill(Car car)
         {
-            gasAmount = gasAmount - Car
+            gasAmount = gasAmount - car.GetCapacity();
+            car.Refill();
         }
     }
 }

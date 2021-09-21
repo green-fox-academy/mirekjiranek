@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.31624.102
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "FleetOfThings", "FleetOfThings\FleetOfThings.csproj", "{8C90471F-A36E-4F52-A130-4E16539252B4}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "GreenFoxAcademy", "GreenFoxAcademy\GreenFoxAcademy.csproj", "{776F339D-2E10-4CBB-B0A6-D159CE80CF10}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{8C90471F-A36E-4F52-A130-4E16539252B4}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{8C90471F-A36E-4F52-A130-4E16539252B4}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{8C90471F-A36E-4F52-A130-4E16539252B4}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{8C90471F-A36E-4F52-A130-4E16539252B4}.Release|Any CPU.Build.0 = Release|Any CPU
+		{776F339D-2E10-4CBB-B0A6-D159CE80CF10}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{776F339D-2E10-4CBB-B0A6-D159CE80CF10}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{776F339D-2E10-4CBB-B0A6-D159CE80CF10}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{776F339D-2E10-4CBB-B0A6-D159CE80CF10}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {A895B4AC-34C1-410E-9E5D-B8691B8A31A5}
+	EndGlobalSection
+EndGlobal

@@ -1,0 +1,37 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.31624.102
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Animal", "Animal\Animal.csproj", "{ECF502A4-84C8-454F-999A-2DAC50C7A0DB}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Sharpie", "Sharpie\Sharpie.csproj", "{429C6D6E-E734-43CF-BF67-E4722C633236}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Counter", "Counter\Counter.csproj", "{4383F778-A171-4C01-AD49-B5A750A52371}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{ECF502A4-84C8-454F-999A-2DAC50C7A0DB}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{ECF502A4-84C8-454F-999A-2DAC50C7A0DB}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{ECF502A4-84C8-454F-999A-2DAC50C7A0DB}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{ECF502A4-84C8-454F-999A-2DAC50C7A0DB}.Release|Any CPU.Build.0 = Release|Any CPU
+		{429C6D6E-E734-43CF-BF67-E4722C633236}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{429C6D6E-E734-43CF-BF67-E4722C633236}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{429C6D6E-E734-43CF-BF67-E4722C633236}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{429C6D6E-E734-43CF-BF67-E4722C633236}.Release|Any CPU.Build.0 = Release|Any CPU
+		{4383F778-A171-4C01-AD49-B5A750A52371}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{4383F778-A171-4C01-AD49-B5A750A52371}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{4383F778-A171-4C01-AD49-B5A750A52371}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{4383F778-A171-4C01-AD49-B5A750A52371}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {A6A61A5A-ADF6-41A4-9077-D5CF92E4EDD4}
+	EndGlobalSection
+EndGlobal

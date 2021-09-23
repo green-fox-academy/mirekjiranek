@@ -8,14 +8,20 @@ namespace Pirates
 {
     class Ship
     {
+        private Random randomValue = new Random();
+        private int numOfCrew;
         private List<Pirate> Pirates;
 
         public Ship()
-        {
-     
+        { 
         }
-        public List<Pirate>  FillShip()
+        public void FillShip()
         {
+            numOfCrew = randomValue.Next(1, 114);
+            for (int i = 0; i < numOfCrew; i++)
+            {
+                Pirates.Add(Pirat new pirate[i])
+            }
 
         }
     }

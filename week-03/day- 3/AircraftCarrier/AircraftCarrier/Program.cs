@@ -1,12 +1,12 @@
 ﻿using System;
 
-namespace Pirates
+namespace AircraftCarrier
 {
     class Program
     {
         static void Main(string[] args)
         {
-            Pirate pirate1 = new Pirate();
+            Console.WriteLine("Hello World!");
         }
     }
 }

@@ -11,6 +11,7 @@ namespace TheGardenApplication
         private double currAmountWater;
         private bool iNeedWater;
         private string color;
+        private string type;
 
         public Flower(string color)
         {

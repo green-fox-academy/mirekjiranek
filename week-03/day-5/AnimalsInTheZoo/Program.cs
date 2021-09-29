@@ -1,6 +1,6 @@
 ﻿using System;
 
-namespace AircraftCarrier
+namespace AnimalsInTheZoo
 {
     class Program
     {

@@ -1,0 +1,48 @@
+﻿@model BankOfSimba1.ViewModels.AnimalsListViewModel
+@addTagHelper *, Microsoft.AspNetCore.Mvc.TagHelpers
+<!DOCTYPE html>
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head>
+    <style>
+        table, th, td {
+            border: 1px solid black;
+        }
+    </style>
+</head>
+<body>
+    <table style="width:100%">
+        <tr>
+            <th></th>
+            <th>Name</th>
+            <th>Balance</th>
+            <th>Animal Type</th>
+            <th>Is a king</th>
+            <th>Is bad guy</th>
+        </tr>
+        @for (int i = 0; i < @Model.AnimalsAccounts.Count; i++)
+        {
+            bool isbad = false;
+            string background_color = "white";
+            @if (@Model.AnimalsAccounts[i].AnimalType == "lion")
+            {
+                background_color = "gold";
+            }
+            @if (Model.AnimalsAccounts[i].IsBad)
+            {
+                isbad = true;
+            }
+            <tr style="background-color: @background_color ">
+                <td>@(i+1) .</td>
+                <td>@Model.AnimalsAccounts[i].Name </td>
+                <td>@Model.AnimalsAccounts[i].Balance </td>
+                <td>@Model.AnimalsAccounts[i].AnimalType </td>
+                <td>Yes</td>
+                <td>@isbad</td>
+            </tr>
+        }
+    </table>
+    <div class="form-group">
+        <input type="submit" value="Save" class="btn btn-primary" />
+    </div>
+</body>
+</html>

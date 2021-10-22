@@ -1,0 +1,78 @@
+﻿@model MyShop.ViewModels.ShopItemsListViewModel
+@addTagHelper *, Microsoft.AspNetCore.Mvc.TagHelpers
+<!DOCTYPE html>
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head>
+    <style>
+        table, th, td {
+            border: 1px solid black;
+        }
+    </style>
+</head>
+<body>
+    <h1>My shop</h1>
+    <div class="sort-type-buttons">
+        <form action="clothes-and-shoes" method="get">
+            <input type="submit" value="Clothes And Shoes" class="btn btn-primary" />
+        </form>
+        <form action="Electronics" method="get">
+            <input type="submit" value="Electronics" class="btn btn-primary" />
+        </form>
+        <form action="beverages-and-snacks" method="get">
+            <input type="submit" value="Beverages And Snacks" class="btn btn-primary" />
+        </form>
+        <form action="euro" method="get">
+            <input type="submit" value="Euro" class="btn btn-primary" />
+        </form>
+        <form action="original-currency" method="get">
+            <input type="submit" value="Original Currency" class="btn btn-primary" />
+        </form>
+    </div>
+    <div class="sort-buttons">
+        <form action="only-available" method="get">
+            <input type="submit" value="Only Available" class="btn btn-primary" />
+        </form>
+        <form action="cheapest-first" method="get">
+            <input type="submit" value="Cheapest First" class="btn btn-primary" />
+        </form>
+        <form action="contains-nike" method="get">
+            <input type="submit" value="Contains Nike" class="btn btn-primary" />
+        </form>
+        <form action="average-stock" method="get">
+            <input type="submit" value="Average Stock" class="btn btn-primary" />
+        </form>
+        <form action="most-expensive-avalaible" method="get">
+            <input type="submit" value="Most Expensive Avalaible" class="btn btn-primary" />
+        </form>
+    </div>
+    <div class="search-bar" >
+        <form action="search" method="post">
+            <label for="fname">Search Product:</label><br>
+            <input type="text" id="product" name="product" placeholder="...Something like nike"><br>
+            <input type="submit" value="Submit">
+        </form>
+    </div>
+
+    <table style="width:100%">
+        <tr style="background-color: aqua">
+            <th>Name</th>
+            <th>Description</th>
+            <th>Price</th>
+            <th>Quantity of stock</th>
+        </tr>
+        @foreach (var item in Model.AllShopItems)
+        {
+            <tr>
+                <td>@item.Name </td>
+                <td>@item.Description </td>
+                <td>@item.Price</td>
+                <td>@item.QuantityOfStock</td>
+            </tr>
+        }
+
+
+    </table>
+
+</body>
+</html>
+

@@ -1,0 +1,28 @@
+﻿@model MyShop.ViewModels.ShopItemsListViewModel
+@addTagHelper *, Microsoft.AspNetCore.Mvc.TagHelpers
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head>
+    <title>Average Stock</title>
+</head>
+<body>
+    <h1>My shop</h1>
+    <div class="form-group">
+        <form action="only-available" method="get">
+            <input type="submit" value="Only Available" class="btn btn-primary" />
+        </form>
+        <form action="cheapest-first" method="get">
+            <input type="submit" value="Cheapest First" class="btn btn-primary" />
+        </form>
+        <form action="contains-nike" method="get">
+            <input type="submit" value="Contains Nike" class="btn btn-primary" />
+        </form>
+        <form action="average-stock" method="get">
+            <input type="submit" value="Average Stock" class="btn btn-primary" />
+        </form>
+        <form action="most-expensive-avalaible" method="get">
+            <input type="submit" value="Most Expensive Avalaible" class="btn btn-primary" />
+        </form>
+    </div>
+    <h2>Average stock: @Model.Info</h2>
+</body>
+</html>

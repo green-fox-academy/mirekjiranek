@@ -18,14 +18,17 @@
             <th>Animal Type</th>
             <th>Is a king</th>
             <th>Is bad guy</th>
+            <th>Add Balance</th>
         </tr>
         @for (int i = 0; i < @Model.AnimalsAccounts.Count; i++)
         {
             bool isbad = false;
+            bool isKing = false;
             string background_color = "white";
             @if (@Model.AnimalsAccounts[i].AnimalType == "lion")
             {
                 background_color = "gold";
+                isKing = true;
             }
             @if (Model.AnimalsAccounts[i].IsBad)
             {
@@ -36,13 +39,19 @@
                 <td>@Model.AnimalsAccounts[i].Name </td>
                 <td>@Model.AnimalsAccounts[i].Balance </td>
                 <td>@Model.AnimalsAccounts[i].AnimalType </td>
-                <td>Yes</td>
+                <td>@isKing</td>
                 <td>@isbad</td>
+                <td>
+                    <div class="form-group">
+                        <form action="Edit/@i" method="post">
+                            <label for="@i" class="control-label"></label>
+                            <input type="submit" name="@i" value="Add" class="btn btn-primary" />
+                        </form>
+                    </div>
+                </td>
             </tr>
         }
     </table>
-    <div class="form-group">
-        <input type="submit" value="Save" class="btn btn-primary" />
-    </div>
+
 </body>
 </html>

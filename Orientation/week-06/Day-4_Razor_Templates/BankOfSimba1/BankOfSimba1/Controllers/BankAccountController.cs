@@ -53,8 +53,10 @@ namespace BankOfSimba1.Controllers
         [HttpGet("show")]
         public IActionResult Index()
         {
-            return View(new AnimalsListViewModel() {
-            AnimalsAccounts = animals});
+            return View(new AnimalsListViewModel()
+            {
+                AnimalsAccounts = animals
+            });
         }
         [HttpGet("raw")]
         public IActionResult Raw()
@@ -62,6 +64,21 @@ namespace BankOfSimba1.Controllers
             string raw = "This is an <em>HTML</em> text. <b>Enjoy yourself!</b>";
             return View("Raw", raw);
         }
-
+        [HttpPost("Edit/{id:int}")]
+        public IActionResult Edit(int id)
+        {
+            double addmoney = double.Parse(animals[id].Balance);
+            if (animals[id].AnimalType == "lion")
+            {
+                addmoney += 100;
+                animals[id].Balance = addmoney.ToString();
+            }
+            else
+            {
+                addmoney += 10;
+                animals[id].Balance = addmoney.ToString();
+            }
+            return RedirectToAction("Index");
+        }
     }
 }

@@ -17,6 +17,7 @@ namespace DependencyInjection
         public void ConfigureServices(IServiceCollection services)
         {
             services.AddSingleton<UtilityService>();
+            services.AddSingleton<CaesarCoding>();
             services.AddSingleton<Printer>();
             services.AddSingleton<Icolor,RedColor>();
             services.AddTransient<ConsoleLoggerMiddleware>();

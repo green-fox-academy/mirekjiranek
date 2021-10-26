@@ -10,9 +10,25 @@ namespace DependencyInjection.Controllers
     public class HomeController : Controller
     {
         private UtilityService us;
-        public HomeController(UtilityService us)
+        private CaesarCoding cc;
+        public HomeController(UtilityService us,CaesarCoding cc)
         {
             this.us = us;
+            this.cc = cc;
+        }
+        [HttpGet("{text}/{shift}")]
+        public IActionResult Encode_Decode(string text, int shift)
+        {
+            ViewBag.CaesarInput = text;
+            if(shift >= 0)
+            {
+                ViewBag.CaesarResult = cc.Caesar(text, shift);
+            }
+            else
+            {
+                ViewBag.CaesarResult = cc.Caesar(text, shift);
+            }
+            return View("MainPage");
         }
         [HttpGet("colored")]
         public IActionResult Index()

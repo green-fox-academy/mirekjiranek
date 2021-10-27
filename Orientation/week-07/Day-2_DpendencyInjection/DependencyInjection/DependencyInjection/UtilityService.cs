@@ -30,14 +30,7 @@ namespace DependencyInjection
         }
         public bool ValidateEmail(string email)
         {
-            if (email.Contains('@') && email.Contains('.'))
-            {
-                return true;
-            }
-            else
-            {
-                return false;
-            }
+            return (email.Contains('@') && email.Contains('.'));
         }
     }
 }

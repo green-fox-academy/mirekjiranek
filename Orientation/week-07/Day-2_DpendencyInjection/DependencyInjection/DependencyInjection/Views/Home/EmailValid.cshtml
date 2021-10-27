@@ -1,9 +1,17 @@
-﻿@model DependencyInjection.UtilityService
+﻿@model DependencyInjection.EmailValidInfo
 @addTagHelper *, Microsoft.AspNetCore.Mvc.TagHelpers
 <html xmlns="http://www.w3.org/1999/xhtml">
 <head>
     <title></title>
 </head>
-<body style="background-color:@ViewBag.bcgcolor">
-    </body>
+<body>
+    @if (@Model.isValid)
+    {
+        <h2 style="color:green">@Model.URL_Text is a valid email adress</h2>
+    }
+    else
+    {
+        <h2 style="color:red">@Model.URL_Text is a invalid email adress</h2>
+    }
+</body>
 </html>

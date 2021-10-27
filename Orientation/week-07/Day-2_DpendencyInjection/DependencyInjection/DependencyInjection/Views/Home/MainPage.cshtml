@@ -1,10 +1,11 @@
-﻿@addTagHelper *, Microsoft.AspNetCore.Mvc.TagHelpers
+﻿@model DependencyInjection.EncodeDecodeText
+@addTagHelper *, Microsoft.AspNetCore.Mvc.TagHelpers
 <html xmlns="http://www.w3.org/1999/xhtml">
 <head>
     <title></title>
 </head>
 <body>
-    <h2>text: @ViewBag.CaesarInput</h2>
-    <h2>decoded text: @ViewBag.CaesarResult</h2>
+    <h2>text: @Model.Text</h2>
+    <h2>decoded text: @Model.Encoded_Text</h2>
 </body>
 </html>

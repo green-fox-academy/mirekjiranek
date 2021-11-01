@@ -1,3 +1,6 @@
+
+using FoxClub.Services;
+using FoxClub.Model;
 using Microsoft.AspNetCore.Builder;
 using Microsoft.AspNetCore.Hosting;
 using Microsoft.AspNetCore.Http;
@@ -8,7 +11,7 @@ using System.Collections.Generic;
 using System.Linq;
 using System.Threading.Tasks;
 
-namespace DependencyInjection
+namespace FoxClub
 {
     public class Startup
     {
@@ -16,13 +19,8 @@ namespace DependencyInjection
         // For more information on how to configure your application, visit https://go.microsoft.com/fwlink/?LinkID=398940
         public void ConfigureServices(IServiceCollection services)
         {
-            services.AddSingleton<UtilityService>();
-            services.AddSingleton<CaesarCoding>();
-            services.AddSingleton<Printer>();
-            services.AddSingleton<Icolor,RedColor>();
-            services.AddSingleton<StudentService>();
-            services.AddTransient<ConsoleLoggerMiddleware>();
             services.AddMvc(options => options.EnableEndpointRouting = false);
+            services.AddSingleton<FoxServices>();
         }
 
         // This method gets called by the runtime. Use this method to configure the HTTP request pipeline.
@@ -36,7 +34,6 @@ namespace DependencyInjection
             app.UseRouting();
             app.UseMvc();
             app.UseStaticFiles();
-            app.UseMiddleware<ConsoleLoggerMiddleware>();
             app.UseEndpoints(endpoints =>
             {
                 endpoints.MapControllers();

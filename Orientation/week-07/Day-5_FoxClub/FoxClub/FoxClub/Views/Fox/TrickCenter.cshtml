@@ -1,0 +1,36 @@
+﻿@model FoxClub.Model.Fox
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head>
+    <title></title>
+</head>
+<body>
+    <ul class="links">
+        <li><a href="/?name=@Model.Name" name="name" value="@Model.Name">Information</a></li>
+        <li><a href="nutritionStore?name=@Model.Name" name="name" value="@Model.Name">Nutrition Store</a></li>
+        <li><a href="trickCenter?name=@Model.Name" name="name" value="@Model.Name">Trick Center</a></li>
+        <li><a href="actions?name=@Model.Name" name="name" value="@Model.Name">Actions</a></li>
+    </ul>
+    @if (Model.Tricks.Count() < Model.AllTricks.Count())
+    {
+        <form action="trickCenter" method="post">
+            <input type="hidden" name="name" value="@Model.Name" />
+            <label>Tricks</label>
+            <select name="trick" asp-for="Tricks">
+                @foreach (var item in Model.AllTricks)
+                {
+                    if (!Model.Tricks.Contains(item))
+                    {
+                        <option value="@item">@item</option>
+                    }
+                }
+            </select>
+            <button type="submit">Learn</button>
+        </form>
+    }
+    else
+    {
+        <h2>@Model.Name already know all the tricks. </h2>
+    }
+
+</body>
+</html>

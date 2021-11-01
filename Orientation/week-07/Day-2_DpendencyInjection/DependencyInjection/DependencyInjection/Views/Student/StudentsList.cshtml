@@ -1,0 +1,19 @@
+﻿@model DependencyInjection.StudentService
+@addTagHelper *, Microsoft.AspNetCore.Mvc.TagHelpers
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head>
+    <title></title>
+</head>
+<body>
+    <header>
+        <h1>Number of students: @Model.Count()</h1>
+    </header>
+    <ul>
+        
+        @foreach (var name in Model.FindAll())
+        {
+            <li>@name</li>
+        }
+    </ul>
+</body>
+</html>

@@ -31,17 +31,20 @@ namespace LINQ
             //Foxes.Add(fox6);
             //var clr = Foxes.Where(f => f.Color == "green").ToList();
             //var clr_type = Foxes.Where(f => f.Color == "green" && f.Type == "pallida").ToList();
-            //----------------------------------------------------------------------------------
-            string filepath = @"C:\Users\Miroslav\cmder\greenfox\mirekjiranek\Orientation\week-06\LINQ\LINQ\TextFile1.txt";
-            string[] filecontent = File.ReadAllText(filepath).Split(" ");
-            var grouped = filecontent.GroupBy(g => g);
-            var dict = grouped.ToDictionary(d => d.Key, d => d.Count());
-            var sorted = dict.OrderByDescending(s => s.Value).Take(100).ToList();
+            //------------------------------------------------------------------------
+            //string filepath = @"C:\Users\Miroslav\cmder\greenfox\mirekjiranek\Orientation\week-06\LINQ\LINQ\TextFile1.txt";
+            //string[] filecontent = File.ReadAllText(filepath).Split(" ");
+            //var grouped = filecontent.GroupBy(g => g);
+            //var dict = grouped.ToDictionary(d => d.Key, d => d.Count());
+            //var sorted = dict.OrderByDescending(s => s.Value).Take(100).ToList();
 
-            foreach (KeyValuePair<string,int> kvp in sorted)
-            {
-                Console.WriteLine($"{kvp.Key} : {kvp.Value}");
-            }
+            //foreach (KeyValuePair<string,int> kvp in sorted)
+            //{
+            //    Console.WriteLine($"{kvp.Key} : {kvp.Value}");
+            //}
+            string filepath = @"C:\Users\Miroslav\cmder\greenfox\mirekjiranek\Orientation\week-06\LINQ\LINQ\TextFile2.txt";
+            string[] filecontent = File.ReadAllLines(filepath);
+            var maxmass = filecontent.Skip(1).Where(m => m.Split(";")[2] && int.TryParse()).ToList();
         }
         static public int[] Exercise1(int[] input)
         {

@@ -1,0 +1,36 @@
+﻿@model FoxClub.Model.Fox
+
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head>
+    <title>Nutrition Store</title>
+    <link rel="stylesheet" href="~/StyleSheet.css" />
+</head>
+<body>
+    <div class="main">
+        <ul class="links">
+            <li><a href="/?name=@Model.Name" name="name" value="@Model.Name">Information</a></li>
+            <li><a href="nutritionStore?name=@Model.Name" name="name" value="@Model.Name">Nutrition Store</a></li>
+            <li><a href="trickCenter?name=@Model.Name" name="name" value="@Model.Name">Trick Center</a></li>
+            <li><a href="actions?name=@Model.Name" name="name" value="@Model.Name">Actions</a></li>
+        </ul>
+        <form action="nutritionStore" method="post"> <!-- odkaz na nutritionstore s metodou post -->
+            <input type="hidden" name="name" value="@Model.Name" /> <!-- odkaz na konkrétní proměnnou, kterou chci měnit. Hodnota proměnné je konkrétní jméno. Toto jméno se zobrazí v parametru EP -->
+            <label>Food</label>
+            <select name="food" asp-for="Food"> <!--Zvolená volba se přiřadí do proměnné food-->
+                <option value="meat">Meat</option>
+                <option value="salad">Salad</option>
+                <option value="pizza">Pizza</option>
+                <option value="hamburger">Hamburger</option>
+            </select>
+            <label>Drink</label>
+            <select name="drink" asp-for="Drink">
+                <option value="cola">Cola</option>
+                <option value="water">Water</option>
+                <option value="beer">Beer</option>
+                <option value="limonade">Limonade</option>
+            </select>
+            <button type="submit">Change</button>
+        </form>
+        </div>
+    </body>
+    </html>

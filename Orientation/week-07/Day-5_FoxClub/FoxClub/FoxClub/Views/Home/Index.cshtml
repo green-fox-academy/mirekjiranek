@@ -1,0 +1,30 @@
+﻿@model FoxClub.Model.Fox
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head>
+    <title>Home</title>
+</head>
+<body>
+    <ul>
+        <li><a href="?name=@Model.Name">Information</a></li>
+        <li><a href="fox/nutritionStore?name=@Model.Name" name="name" value="@Model.Name">Nutrition Store</a></li>
+        <li><a href="fox/trickCenter?name=@Model.Name" name="name" value="@Model.Name">Trick Center</a></li>
+        <li><a href="fox/actions?name=@Model.Name" name="name" value="@Model.Name">Actions</a></li>
+    </ul>
+    <img src="Resources/greenfox.png" />
+    <h3>This is @Model.Name. Currently living on @Model.Food and @Model.Drink. He knows @Model.Tricks.Count() tricks.</h3>
+    <h2> Known tricks</h2>
+    @if (Model.Tricks.Count() > 0)
+    {
+        <ul>
+            @foreach (var item in @Model.Tricks)
+            {
+            <li>@item</li>
+            }
+        </ul>
+    }
+    else
+    {
+        <h3>You know no tricks, yet. Go and Learn some.</h3>
+    }
+</body>
+</html>

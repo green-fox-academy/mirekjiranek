@@ -1,0 +1,37 @@
+﻿@model ListingTodos.Models.TodoViewModel
+<style>
+    table, th, td {
+        border: 1px solid black;
+    }
+</style>
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head>
+    <title></title>
+</head>
+<body>
+    <h1>TODOS FOR TODAY:</h1>
+    <h3><a href="todo/add">Add new Todo</a></h3>
+    <table style="width:100%">
+        <tr>
+            <th>ID</th>
+            <th>ACTION</th>
+            <th>URGENT</th>
+            <th>DONE</th>
+        </tr>
+        @foreach (var item in Model.AllTodos)
+        {
+                <tr>
+                    <td>@item.Id</td>
+                    <td>@item.Title</td>
+                    <td>@item.IsUrgent</td>
+                    <td>@item.IsDone</td>
+                    <td><a href="todo/list/@item.Id" name="id">Delete</a></td>
+                    <td><a href="todo/@item.Id/edit">Edit</a></td>
+                </tr>
+            
+
+        }
+
+    </table>
+</body>
+</html>

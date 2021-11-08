@@ -22,6 +22,10 @@
             @Html.CheckBoxFor(model => model.Todo.IsDone)
         </div>
         <div>
+            @Html.Label("Select assignee")
+            @Html.DropDownListFor(n=>n.Todo.AssigneeId,new SelectList(Model.AllAssignees,"Id","Name"))
+        </div>
+        <div>
             <button type="submit">Submit</button>
             <a asp-controller="Todo" asp-action="Index">Cancel</a><br />
         </div>

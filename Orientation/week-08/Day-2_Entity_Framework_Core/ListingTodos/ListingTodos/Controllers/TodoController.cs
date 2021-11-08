@@ -13,9 +13,11 @@ namespace ListingTodos.Controllers
     public class TodoController : Controller
     {
         private TodoService TodoService { get; }
-        public TodoController(TodoService service)
+        private AssigneeService AssigneeService { get; }
+        public TodoController(TodoService service, AssigneeService Assignee_Service)
         {
             TodoService = service;
+            AssigneeService = Assignee_Service;
         }
         [HttpGet("")]
         public IActionResult Index()
@@ -26,7 +28,9 @@ namespace ListingTodos.Controllers
         [HttpGet("{id:long}/edit")]
         public IActionResult EditTodo([FromRoute] long id)
         {
-            var TodoViewModel = new TodoViewModel() { Todo = TodoService.FindById(id) };
+            var TodoViewModel = new TodoViewModel() { Todo = TodoService.FindById(id), 
+                AllAssignees = AssigneeService.FindAll().ToList()
+            };
             return View("Edit",TodoViewModel);
         }
         [HttpPost("{id:long}/edit")]
@@ -51,6 +55,12 @@ namespace ListingTodos.Controllers
         {
             var savedTodo = TodoService.Add(todo);
             return RedirectToAction("Index");
+        }
+        [HttpPost("search")]
+        public IActionResult Search(string searchingWord)
+        {
+            var viewModel = new TodoViewModel() { AllTodos = TodoService.Search(searchingWord) };
+            return View("Index", viewModel);
         }
     }
 }

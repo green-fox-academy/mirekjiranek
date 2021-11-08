@@ -1,5 +1,5 @@
-using ListingTodos.Database;
-using ListingTodos.Services;
+using Frontend.Database;
+using Frontend.Service;
 using Microsoft.AspNetCore.Builder;
 using Microsoft.AspNetCore.Hosting;
 using Microsoft.AspNetCore.Http;
@@ -13,10 +13,12 @@ using System.Collections.Generic;
 using System.Linq;
 using System.Threading.Tasks;
 
-namespace ListingTodos
+namespace Frontend
 {
     public class Startup
     {
+        // This method gets called by the runtime. Use this method to add services to the container.
+        // For more information on how to configure your application, visit https://go.microsoft.com/fwlink/?LinkID=398940
         private IConfiguration AppConfig { get; }
         public Startup(IConfiguration config)
         {
@@ -24,17 +26,24 @@ namespace ListingTodos
         }
         public void ConfigureServices(IServiceCollection services)
         {
-            services.AddTransient<TodoService>();
-            services.AddTransient<AssigneeService>();
-            services.AddControllersWithViews();
+            services.AddMvc(options => options.EnableEndpointRouting = false);
+            services.AddTransient<LogService>();
             ConfigureDb(services);
         }
 
+        // This method gets called by the runtime. Use this method to configure the HTTP request pipeline.
         public void Configure(IApplicationBuilder app, IWebHostEnvironment env)
         {
-            app.UseDeveloperExceptionPage();
+            if (env.IsDevelopment())
+            {
+                app.UseDeveloperExceptionPage();
+            }
 
             app.UseRouting();
+            app.UseFileServer();
+            app.UseMvc();
+            app.UseStaticFiles();
+            app.UseDefaultFiles();
 
             app.UseEndpoints(endpoints =>
             {

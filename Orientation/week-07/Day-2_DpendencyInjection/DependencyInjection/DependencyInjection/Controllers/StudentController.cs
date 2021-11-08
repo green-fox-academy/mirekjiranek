@@ -10,7 +10,6 @@ namespace DependencyInjection.Controllers
     public class StudentController : Controller
     {
         private StudentService sc;
-
         public StudentController(StudentService sc)
         {
             this.sc = sc;

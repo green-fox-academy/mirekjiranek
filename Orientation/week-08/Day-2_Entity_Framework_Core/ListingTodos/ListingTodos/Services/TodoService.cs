@@ -1,5 +1,6 @@
 ﻿using ListingTodos.Database;
 using ListingTodos.Models.Entities;
+using Microsoft.EntityFrameworkCore;
 using System;
 using System.Collections.Generic;
 using System.Linq;
@@ -16,12 +17,11 @@ namespace ListingTodos.Services
         }
         public Todo FindById(long id)
         {
-            return DbContext.Todos.Find(id);
+            return DbContext.Todos.Include(t => t.Assignee).FirstOrDefault(i=>i.Id == id);
         }
         public List<Todo> FindAll()
         {
-            var neco = DbContext.Todos.ToList();
-            return DbContext.Todos.ToList();
+            return DbContext.Todos.Include(t=>t.Assignee).ToList();
         }
         public Todo Add(Todo todo)
         {
@@ -39,5 +39,14 @@ namespace ListingTodos.Services
             DbContext.Todos.Update(todo);
             DbContext.SaveChanges();
         }
+        public List<Todo> Search(string searchingWord)
+        {
+            return DbContext.Todos.Where(t => t.Title.ToLower().Contains(searchingWord.ToLower()) || t.Description.ToLower().Contains(searchingWord.ToLower())).ToList();
+        }
+        public List<Todo> FindTodosByAssignee(long id)
+        {
+            return FindAll().Where(a => a.AssigneeId == id).ToList();
+        }
+
     }
 }

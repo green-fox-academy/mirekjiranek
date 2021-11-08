@@ -1,4 +1,5 @@
 ﻿@model ListingTodos.Models.TodoViewModel
+@addTagHelper *, Microsoft.AspNetCore.Mvc.TagHelpers
 <style>
     table, th, td {
         border: 1px solid black;
@@ -9,27 +10,41 @@
     <title></title>
 </head>
 <body>
+    <a asp-controller="Assignee" asp-action="ListOfAssignees">List of Assignees</a><br />
     <h1>TODOS FOR TODAY:</h1>
+    <form asp-controller="Todo" asp-action="search" method="post">
+        <input type="text" name="searchingWord" placeholder="write searching word" />
+        <input type="submit" value="Search" />
+    </form>
     <h3><a href="todo/add">Add new Todo</a></h3>
     <table style="width:100%">
         <tr>
             <th>ID</th>
+            <th>Created</th>
             <th>ACTION</th>
             <th>URGENT</th>
             <th>DONE</th>
+            <th>SELECTED ASSIGNEES</th>
         </tr>
         @foreach (var item in Model.AllTodos)
         {
-                <tr>
-                    <td>@item.Id</td>
-                    <td>@item.Title</td>
-                    <td>@item.IsUrgent</td>
-                    <td>@item.IsDone</td>
-                    <td><a href="todo/list/@item.Id" name="id">Delete</a></td>
-                    <td><a href="todo/@item.Id/edit">Edit</a></td>
-                </tr>
-            
-
+            <tr>
+                <td>@item.Id</td>
+                <td>@item.CreatedDateTime</td>
+                <td>@item.Title</td>
+                <td>@item.IsUrgent</td>
+                <td>@item.IsDone</td>
+                @if (!string.IsNullOrEmpty(item.Assignee?.Name))
+                {
+                    <td><a asp-controller="Assignee" asp-action="ListOfTodos" asp-route-id="@item.Assignee.Id">@item.Assignee.Name</a></td>
+                }
+                else
+                {
+                    <td></td>
+                }
+                <td><a href="todo/list/@item.Id" name="id">Delete</a></td>
+                <td><a href="todo/@item.Id/edit">Edit</a></td>
+            </tr>
         }
 
     </table>

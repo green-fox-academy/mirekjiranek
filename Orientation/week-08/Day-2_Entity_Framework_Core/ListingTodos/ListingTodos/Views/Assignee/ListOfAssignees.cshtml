@@ -1,0 +1,35 @@
+﻿@model ListingTodos.Models.AssigneeViewModel
+@addTagHelper *, Microsoft.AspNetCore.Mvc.TagHelpers
+<style>
+    table, th, td {
+        border: 1px solid black;
+    }
+</style>
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head>
+    <title>Assignees</title>
+</head>
+<body>
+    <a asp-controller="Assignee" asp-action="Add">Add Assignee</a><br />
+    <br />
+    <a asp-controller="Todo" asp-action="Index">Back</a><br />
+
+    <table style="width:100%">
+        <tr>
+            <th>ID</th>
+            <th>NAME</th>
+            <th>EMAIL</th>
+        </tr>
+        @foreach (var item in Model.AllAssignees)
+        {
+            <tr>
+                <td>@item.Id</td>
+                <td><a href="assignee/@item.Id/listoftodos" name="id">@item.Name</a></td>
+                <td>@item.Email</td>
+                <td><a href="assignee/@item.Id" name="id">Delete</a></td>
+                <td><a href="assignee/@item.Id/edit">Edit</a></td>
+            </tr>
+        }
+    </table>
+</body>
+</html>

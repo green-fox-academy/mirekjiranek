@@ -18,5 +18,15 @@ namespace EntityFramework.Services
         {
             return DbContext.Users.Find(id);
         }
+        public User Add(User user)
+        {
+            var savedUser = DbContext.Users.Add(user).Entity;
+            DbContext.SaveChanges();
+            return savedUser;
+        }
+        public List<User> Findall()
+        {
+            return DbContext.Users.ToList();
+        }
     }
 }
